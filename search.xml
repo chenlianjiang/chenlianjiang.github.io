@@ -15,7 +15,18 @@
     <entry>
       <title><![CDATA[Hexo搭建个人博客]]></title>
       <url>http://yoursite.com/2017/03/17/Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-      <content type="html"><![CDATA[<p>2121测试</p>
+      <content type="html"><![CDATA[<h2 id="添加Local-Search功能"><a href="#添加Local-Search功能" class="headerlink" title="添加Local Search功能"></a>添加Local Search功能</h2><p>安装 hexo-generator-searchdb,在你的站点文件夹中，用shell等运行下面这行代码：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm install hexo-generator-searchdb --save</div></pre></td></tr></table></figure></p>
+<p>编辑站点配置文件添加以下字段<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">search:</div><div class="line">  path: search.xml</div><div class="line">  field: post</div><div class="line">  format: html</div><div class="line">  limit: 10000</div></pre></td></tr></table></figure></p>
+<p>编辑主题配置文件启用本地搜索<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"># Local search</div><div class="line">local_search:</div><div class="line">  enable: true</div></pre></td></tr></table></figure></p>
+<h2 id="添加百度统计"><a href="#添加百度统计" class="headerlink" title="添加百度统计"></a>添加百度统计</h2><ul>
+<li>注册并登陆<a href="http://tongji.baidu.com/web/welcome/login" target="_blank" rel="external">百度统计</a></li>
+<li>在网站中心–&gt;代码获取中点击复制代码 </li>
+<li>打开F:\Hexo\themes\pacman\layout\after_footer.ejs文件,把刚才复制的代码复制到最下面即可;</li>
+<li>然后在网站中心–&gt;代码安装检查中检测代码是否添加成功<blockquote>
+<p>注意:因为主题用的不同,可能代码添加位置也不一样,但基本都是在/themes/yourtheme/layout/after_footer.ejs中添加即可</p>
+</blockquote>
+</li>
+</ul>
 ]]></content>
       
         
