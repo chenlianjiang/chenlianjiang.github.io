@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-25T09:09:35.000Z</updated>
+  <updated>2017-03-28T09:17:47.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,44 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>技术栈</title>
+    <link href="http://yoursite.com/2017/03/28/%E6%8A%80%E6%9C%AF%E6%A0%88/"/>
+    <id>http://yoursite.com/2017/03/28/技术栈/</id>
+    <published>2017-03-28T09:17:47.000Z</published>
+    <updated>2017-03-28T09:17:47.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>求职之路与职业规划</title>
+    <link href="http://yoursite.com/2017/03/27/%E6%B1%82%E8%81%8C%E4%B9%8B%E8%B7%AF%E4%B8%8E%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/"/>
+    <id>http://yoursite.com/2017/03/27/求职之路与职业规划/</id>
+    <published>2017-03-27T07:16:15.000Z</published>
+    <updated>2017-03-27T07:47:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>求职之路,找到合适的不容易</p>
+</blockquote>
+<h2 id="面试准备"><a href="#面试准备" class="headerlink" title="面试准备"></a>面试准备</h2>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;求职之路,找到合适的不容易&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;面试准备&quot;&gt;&lt;a href=&quot;#面试准备&quot; class=&quot;headerlink&quot; title=&quot;面试准备&quot;&gt;&lt;/a&gt;面试准备&lt;/h2&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>常用技术网站</title>
@@ -40,7 +78,7 @@
     <link href="http://yoursite.com/2017/03/17/Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2017/03/17/Hexo搭建个人博客/</id>
     <published>2017-03-17T06:04:32.000Z</published>
-    <updated>2017-03-25T08:39:50.000Z</updated>
+    <updated>2017-03-27T07:47:45.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="添加Local-Search功能"><a href="#添加Local-Search功能" class="headerlink" title="添加Local Search功能"></a>添加Local Search功能</h2><p>安装 hexo-generator-searchdb,在你的站点文件夹中，用shell等运行下面这行代码：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm install hexo-generator-searchdb --save</div></pre></td></tr></table></figure></p>
 <p>编辑站点配置文件添加以下字段<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">search:</div><div class="line">  path: search.xml</div><div class="line">  field: post</div><div class="line">  format: html</div><div class="line">  limit: 10000</div></pre></td></tr></table></figure></p>
@@ -62,6 +100,8 @@
     
     </summary>
     
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
     
   </entry>
   
