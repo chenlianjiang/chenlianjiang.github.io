@@ -1,41 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   
+  
     
     <entry>
       <title><![CDATA[技术栈]]></title>
-      <url>%2F2017%2F03%2F28%2F%E6%8A%80%E6%9C%AF%E6%A0%88%2F</url>
-      <content type="text"><![CDATA[h5游戏引擎 https://www.egret.com/ http://www.pixijs.com/ Phaser]]></content>
+      <url>http://chenlianjiang.github.io/2017/03/28/%E6%8A%80%E6%9C%AF%E6%A0%88/</url>
+      <content type="html"><![CDATA[<h2 id="h5游戏引擎"><a href="#h5游戏引擎" class="headerlink" title="h5游戏引擎"></a>h5游戏引擎</h2><ul>
+<li><a href="https://www.egret.com/" target="_blank" rel="external">https://www.egret.com/</a>    </li>
+<li><a href="http://www.pixijs.com/" target="_blank" rel="external">http://www.pixijs.com/</a></li>
+<li>Phaser</li>
+<li></li>
+</ul>
+]]></content>
+      
+        
     </entry>
-
     
     <entry>
       <title><![CDATA[求职之路与职业规划]]></title>
-      <url>%2F2017%2F03%2F27%2F%E6%B1%82%E8%81%8C%E4%B9%8B%E8%B7%AF%E4%B8%8E%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%2F</url>
-      <content type="text"><![CDATA[求职之路,找到合适的不容易 面试准备]]></content>
+      <url>http://chenlianjiang.github.io/2017/03/27/%E6%B1%82%E8%81%8C%E4%B9%8B%E8%B7%AF%E4%B8%8E%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/</url>
+      <content type="html"><![CDATA[<blockquote>
+<p>求职之路,找到合适的不容易</p>
+</blockquote>
+<h2 id="面试准备"><a href="#面试准备" class="headerlink" title="面试准备"></a>面试准备</h2>]]></content>
+      
+        
     </entry>
-
     
     <entry>
       <title><![CDATA[常用技术网站]]></title>
-      <url>%2F2017%2F03%2F23%2F%E5%B8%B8%E7%94%A8%E6%8A%80%E6%9C%AF%E7%BD%91%E7%AB%99%2F</url>
-      <content type="text"><![CDATA[CSDN.NET - 全球最大中文 IT 社区，为 IT 专业技术人员提供最全面的信息传播和服务平台]]></content>
+      <url>http://chenlianjiang.github.io/2017/03/23/%E5%B8%B8%E7%94%A8%E6%8A%80%E6%9C%AF%E7%BD%91%E7%AB%99/</url>
+      <content type="html"><![CDATA[<p><a href="http://www.csdn.net/" target="_blank" rel="external">CSDN.NET - 全球最大中文 IT 社区，为 IT 专业技术人员提供最全面的信息传播和服务平台</a></p>
+]]></content>
+      
+        
     </entry>
-
     
     <entry>
       <title><![CDATA[Hexo搭建个人博客]]></title>
-      <url>%2F2017%2F03%2F17%2FHexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%2F</url>
-      <content type="text"><![CDATA[添加Local Search功能安装 hexo-generator-searchdb,在你的站点文件夹中，用shell等运行下面这行代码：1$ npm install hexo-generator-searchdb --save 编辑站点配置文件添加以下字段12345search: path: search.xml field: post format: html limit: 10000 编辑主题配置文件启用本地搜索123# Local searchlocal_search: enable: true 添加百度统计 注册并登陆百度统计 在网站中心–&gt;代码获取中点击复制代码 打开F:\Hexo\themes\pacman\layout\after_footer.ejs文件,把刚才复制的代码复制到最下面即可; 然后在网站中心–&gt;代码安装检查中检测代码是否添加成功 注意:因为主题用的不同,可能代码添加位置也不一样,但基本都是在/themes/yourtheme/layout/after_footer.ejs中添加即可]]></content>
+      <url>http://chenlianjiang.github.io/2017/03/17/Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+      <content type="html"><![CDATA[<h2 id="添加Local-Search功能"><a href="#添加Local-Search功能" class="headerlink" title="添加Local Search功能"></a>添加Local Search功能</h2><p>安装 hexo-generator-searchdb,在你的站点文件夹中，用shell等运行下面这行代码：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm install hexo-generator-searchdb --save</div></pre></td></tr></table></figure></p>
+<p>编辑站点配置文件添加以下字段<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">search:</div><div class="line">  path: search.xml</div><div class="line">  field: post</div><div class="line">  format: html</div><div class="line">  limit: 10000</div></pre></td></tr></table></figure></p>
+<p>编辑主题配置文件启用本地搜索<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"># Local search</div><div class="line">local_search:</div><div class="line">  enable: true</div></pre></td></tr></table></figure></p>
+<h2 id="添加百度统计"><a href="#添加百度统计" class="headerlink" title="添加百度统计"></a>添加百度统计</h2><ul>
+<li>注册并登陆<a href="http://tongji.baidu.com/web/welcome/login" target="_blank" rel="external">百度统计</a></li>
+<li>在网站中心–&gt;代码获取中点击复制代码 </li>
+<li>打开F:\Hexo\themes\pacman\layout\after_footer.ejs文件,把刚才复制的代码复制到最下面即可;</li>
+<li>然后在网站中心–&gt;代码安装检查中检测代码是否添加成功<blockquote>
+<p>注意:因为主题用的不同,可能代码添加位置也不一样,但基本都是在/themes/yourtheme/layout/after_footer.ejs中添加即可</p>
+</blockquote>
+</li>
+</ul>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+        
     </entry>
-
     
     <entry>
       <title><![CDATA[Hello World]]></title>
-      <url>%2F2017%2F03%2F17%2Fhello-world%2F</url>
-      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <url>http://chenlianjiang.github.io/2017/03/17/hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+      
+        
     </entry>
-
     
   
   
