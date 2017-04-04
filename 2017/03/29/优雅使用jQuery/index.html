@@ -21,7 +21,7 @@
 <meta property="og:url" content="http://chenlianjiang.github.io/2017/03/29/优雅使用jQuery/index.html">
 <meta property="og:site_name" content="Chenlj">
 <meta property="og:description" content="write less, do more">
-<meta property="og:updated_time" content="2017-03-29T08:10:14.000Z">
+<meta property="og:updated_time" content="2017-03-31T17:42:05.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="优雅使用jQuery">
 <meta name="twitter:description" content="write less, do more">
@@ -202,7 +202,7 @@
                 
                 <section class="switch-part switch-part2">
                     <div class="widget tagcloud" id="js-tagcloud">
-                        <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Hexo/">Hexo</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/jQuery/">jQuery</a></li></ul>
+                        <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Composer/">Composer</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Git/">Git</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Hexo/">Hexo</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Homebrew/">Homebrew</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/JavaScript/">JavaScript</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Mac/">Mac</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/PHP/">PHP</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/jQuery/">jQuery</a></li></ul>
                     </div>
                 </section>
                 
@@ -311,7 +311,7 @@
 
         
     <div class="article-tag tagcloud">
-        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/jQuery/">jQuery</a></li></ul>
+        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/JavaScript/">JavaScript</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/jQuery/">jQuery</a></li></ul>
     </div>
 
         <div class="clearfix"></div>
@@ -322,12 +322,10 @@
       
           
         <blockquote>
-<p>结合《锋利的jQuery》学习，记录属于自己的知识。</p>
-<p>jQuery是一个轻量级的库，拥有强大的选择器，出色的DOM操作，可靠的事件处理、完善的兼容性和链式操作等功能。</p>
-<h2 id="jQuery代码编写入门"><a href="#jQuery代码编写入门" class="headerlink" title="jQuery代码编写入门"></a>jQuery代码编写入门</h2></blockquote>
-<ul>
-<li><p>获取jQuery</p>
-<p><a href="http://jquery.com通过官网获取" target="_blank" rel="external">http://jquery.com通过官网获取</a></p>
+<p>结合《锋利的jQuery》学习，记录属于自己的知识。jQuery是一个轻量级的库，拥有强大的选择器，出色的DOM操作，可靠的事件处理、完善的兼容性和链式操作等功能。</p>
+</blockquote>
+<h2 id="jQuery代码编写入门"><a href="#jQuery代码编写入门" class="headerlink" title="jQuery代码编写入门"></a>jQuery代码编写入门</h2><ul>
+<li><p>获取<a href="http://jquery.com" target="_blank" rel="external">jQuery</a>通过官网获取</p>
 </li>
 <li><p>编写简单的jQuery代码</p>
 </li>
@@ -361,6 +359,159 @@
 <h2 id="jQuery选择器"><a href="#jQuery选择器" class="headerlink" title="jQuery选择器"></a>jQuery选择器</h2><blockquote>
 <p>在jQuery中，对事件处理、遍历DOM和Ajax 操作都依赖于选择器。<br>jQuery 选择器分为基本选择器，层次选择器、过滤选择器、表单选择器；</p>
 </blockquote>
+<h3 id="基本选择器"><a href="#基本选择器" class="headerlink" title="基本选择器"></a>基本选择器</h3><table>
+<thead>
+<tr>
+<th>选择器</th>
+<th>描述</th>
+<th>返回</th>
+<th>示例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>#id</td>
+<td>匹配给定的id</td>
+<td>单个元素</td>
+<td>$(“header”)</td>
+</tr>
+<tr>
+<td>.class</td>
+<td>匹配给定的类名</td>
+<td>集合元素</td>
+<td>$(“.test”)</td>
+</tr>
+<tr>
+<td>E</td>
+<td>匹配给定的标签名</td>
+<td>集合元素</td>
+<td>$(“div”)</td>
+</tr>
+<tr>
+<td>*</td>
+<td>匹配所有元素</td>
+<td>集合元素</td>
+<td>$(“*’)</td>
+</tr>
+<tr>
+<td>E, .class, E…</td>
+<td>匹配给定的集合</td>
+<td>集合元素</td>
+<td>$(“span, .tips”)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="层次选择器"><a href="#层次选择器" class="headerlink" title="层次选择器"></a>层次选择器</h3><table>
+<thead>
+<tr>
+<th>选择器</th>
+<th>描述</th>
+<th>返回</th>
+<th>示例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>$(“ancestor descendant”)</td>
+<td>匹配 ancestor 里的所有descendant(后代)元素</td>
+<td>集合元素</td>
+<td>$(“body div”)</td>
+</tr>
+<tr>
+<td>$(“parent&gt;child”)</td>
+<td>匹配 parent 下的所有child(子) 元素</td>
+<td>集合元素</td>
+<td>$(“div&gt;span”)</td>
+</tr>
+<tr>
+<td>$(“prev+next”)</td>
+<td>匹配紧接在 prev 后的next 元素</td>
+<td>集合元素</td>
+<td>$(“.error+span”)</td>
+</tr>
+<tr>
+<td>$(“prev~siblings”)</td>
+<td>匹配 prev 后的所有siblings 元素</td>
+<td>集合元素</td>
+<td>$(“span~a”)</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>可以用</p>
+</blockquote>
+<h3 id="过滤选择器"><a href="#过滤选择器" class="headerlink" title="过滤选择器"></a>过滤选择器</h3><h3 id="表单选择器"><a href="#表单选择器" class="headerlink" title="表单选择器"></a>表单选择器</h3><table>
+<thead>
+<tr>
+<th>选择器</th>
+<th>描述</th>
+<th>返回</th>
+<th>示例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>:input</td>
+<td>匹配所有 input, textarea,select, button元素</td>
+<td>集合元素</td>
+<td>$(“input”)</td>
+</tr>
+<tr>
+<td>:text</td>
+<td>匹配所有文本框</td>
+<td>集合元素</td>
+<td>$(“:text”)</td>
+</tr>
+<tr>
+<td>:password</td>
+<td>匹配所有密码框</td>
+<td>集合元素</td>
+<td>$(“:password”)</td>
+</tr>
+<tr>
+<td>:radio</td>
+<td>匹配所有单选框</td>
+<td>集合元素</td>
+<td>$(“:radio”)</td>
+</tr>
+<tr>
+<td>:checkbox</td>
+<td>匹配所有所有多选框</td>
+<td>集合元素</td>
+<td>$(“:checkbox”)</td>
+</tr>
+<tr>
+<td>:submit</td>
+<td>匹配所有提交按钮</td>
+<td>集合元素</td>
+<td>$(“:submit”)</td>
+</tr>
+<tr>
+<td>:image</td>
+<td>匹配所有图像按钮</td>
+<td>集合元素</td>
+<td>$(“:image”)</td>
+</tr>
+<tr>
+<td>:reset</td>
+<td>匹配所有重置按钮</td>
+<td>集合元素</td>
+<td>$(“:reset”)</td>
+</tr>
+<tr>
+<td>:button</td>
+<td>匹配所有按钮</td>
+<td>集合元素</td>
+<td>$(“:button”)</td>
+</tr>
+<tr>
+<td>:file</td>
+<td>匹配所有上传域</td>
+<td>集合元素</td>
+<td>$(“:file”)</td>
+</tr>
+</tbody>
+</table>
 <h2 id="编码规范"><a href="#编码规范" class="headerlink" title="编码规范"></a>编码规范</h2><h4 id="链式操作"><a href="#链式操作" class="headerlink" title="链式操作"></a>链式操作</h4><ul>
 <li><p>对于同一个对象不超过3个操作的，可以直接写成一行：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$(&quot;li&quot;).show().unbind(&quot;click&quot;);</div></pre></td></tr></table></figure>
@@ -387,7 +538,7 @@
         <p><span>本文标题:</span><a href="/2017/03/29/优雅使用jQuery/">优雅使用jQuery</a></p>
         <p><span>文章作者:</span><a href="/" title="回到主页">Lianjiang Chen</a></p>
         <p><span>发布时间:</span>2017-03-29, 11:22:39</p>
-        <p><span>最后更新:</span>2017-03-29, 16:10:14</p>
+        <p><span>最后更新:</span>2017-04-01, 01:42:05</p>
         <p>
             <span>原始链接:</span><a class="post-url" href="/2017/03/29/优雅使用jQuery/" title="优雅使用jQuery">http://chenlianjiang.github.io/2017/03/29/优雅使用jQuery/</a>
             <span class="copy-path" data-clipboard-text="原文: http://chenlianjiang.github.io/2017/03/29/优雅使用jQuery/　　作者: Lianjiang Chen" title="点击复制文章链接"><i class="fa fa-clipboard"></i></span>
@@ -401,6 +552,12 @@
 
 
     <nav id="article-nav">
+        
+            <div id="article-nav-newer" class="article-nav-title">
+                <a href="/2017/04/01/Mac上brew的使用/">
+                    Mac上Homebrew的使用
+                </a>
+            </div>
         
         
             <div id="article-nav-older" class="article-nav-title">
@@ -417,7 +574,7 @@
     <div id="toc" class="toc-article">
         <strong class="toc-title">文章目录</strong>
         
-            <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#jQuery代码编写入门"><span class="toc-number">1.</span> <span class="toc-text">jQuery代码编写入门</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#jQuery选择器"><span class="toc-number">2.</span> <span class="toc-text">jQuery选择器</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#编码规范"><span class="toc-number">3.</span> <span class="toc-text">编码规范</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#链式操作"><span class="toc-number">3.0.1.</span> <span class="toc-text">链式操作</span></a></li></ol></li></ol></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#参考资料"><span class="toc-number"></span> <span class="toc-text">参考资料</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#书"><span class="toc-number">1.</span> <span class="toc-text">书</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#文章"><span class="toc-number">2.</span> <span class="toc-text">文章</span></a></li></ol>
+            <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#jQuery代码编写入门"><span class="toc-number">1.</span> <span class="toc-text">jQuery代码编写入门</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#jQuery选择器"><span class="toc-number">2.</span> <span class="toc-text">jQuery选择器</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#基本选择器"><span class="toc-number">2.1.</span> <span class="toc-text">基本选择器</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#层次选择器"><span class="toc-number">2.2.</span> <span class="toc-text">层次选择器</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#过滤选择器"><span class="toc-number">2.3.</span> <span class="toc-text">过滤选择器</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#表单选择器"><span class="toc-number">2.4.</span> <span class="toc-text">表单选择器</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#编码规范"><span class="toc-number">3.</span> <span class="toc-text">编码规范</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#链式操作"><span class="toc-number">3.0.1.</span> <span class="toc-text">链式操作</span></a></li></ol></li></ol></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#参考资料"><span class="toc-number"></span> <span class="toc-text">参考资料</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#书"><span class="toc-number">1.</span> <span class="toc-text">书</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#文章"><span class="toc-number">2.</span> <span class="toc-text">文章</span></a></li></ol>
         
     </div>
     <style>
@@ -473,7 +630,9 @@
 
     <div class="scroll" id="post-nav-button">
         
-            <a href="/" title="回到主页"><i class="fa fa-home"></i></a>
+            <a href="/2017/04/01/Mac上brew的使用/" title="上一篇: Mac上Homebrew的使用">
+                <i class="fa fa-angle-left"></i>
+            </a>
         
 
         <a title="文章列表"><i class="fa fa-bars"></i><i class="fa fa-times"></i></a>
@@ -485,7 +644,7 @@
         
     </div>
 
-    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2017/03/29/优雅使用jQuery/">优雅使用jQuery</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/03/28/技术栈/">技术栈</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/03/27/求职之路与职业规划/">求职之路与职业规划</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/03/23/常用技术网站/">常用技术网站</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/03/17/Hexo搭建个人博客/">Hexo搭建个人博客</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/03/17/hello-world/">Hello World</a></li></ul>
+    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2017/04/04/创建一个自己的【Composer-Packagist】包/">创建一个自己的【Composer/Packagist】包</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/04/04/Git常用操作记录/">Git常用操作记录</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/04/04/Composer学习笔记/">Composer学习笔记</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/04/01/Mac上常用工具/">Mac上常用工具</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/04/01/Mac上brew的使用/">Mac上Homebrew的使用</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/03/29/优雅使用jQuery/">优雅使用jQuery</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/03/28/技术栈/">技术栈</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/03/27/求职之路与职业规划/">求职之路与职业规划</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/03/23/常用技术网站/">常用技术网站</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/03/17/Hexo搭建个人博客/">Hexo搭建个人博客</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/03/17/hello-world/">Hello World</a></li></ul>
 
 
 

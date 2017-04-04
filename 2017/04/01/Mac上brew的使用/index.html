@@ -15,16 +15,16 @@
 
 
 
-<meta name="description" content="CSDN.NET - 全球最大中文 IT 社区，为 IT 专业技术人员提供最全面的信息传播和服务平台">
+<meta name="description" content="Homebrew The missing package manager for macOS.">
 <meta property="og:type" content="article">
-<meta property="og:title" content="常用技术网站">
-<meta property="og:url" content="http://chenlianjiang.github.io/2017/03/23/常用技术网站/index.html">
+<meta property="og:title" content="Mac上Homebrew的使用">
+<meta property="og:url" content="http://chenlianjiang.github.io/2017/04/01/Mac上brew的使用/index.html">
 <meta property="og:site_name" content="Chenlj">
-<meta property="og:description" content="CSDN.NET - 全球最大中文 IT 社区，为 IT 专业技术人员提供最全面的信息传播和服务平台">
-<meta property="og:updated_time" content="2017-03-25T09:09:35.000Z">
+<meta property="og:description" content="Homebrew The missing package manager for macOS.">
+<meta property="og:updated_time" content="2017-03-31T18:18:03.000Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="常用技术网站">
-<meta name="twitter:description" content="CSDN.NET - 全球最大中文 IT 社区，为 IT 专业技术人员提供最全面的信息传播和服务平台">
+<meta name="twitter:title" content="Mac上Homebrew的使用">
+<meta name="twitter:description" content="Homebrew The missing package manager for macOS.">
 
 <link rel="apple-touch-icon" href= "/apple-touch-icon.png">
 
@@ -56,7 +56,7 @@
 <link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 
 
-<title>常用技术网站 | Chenlj</title>
+<title>Mac上Homebrew的使用 | Chenlj</title>
 
 <script src="//cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
 <script src="//cdn.bootcss.com/clipboard.js/1.5.10/clipboard.min.js"></script>
@@ -281,11 +281,11 @@
     </div>
     <link class="menu-list" tags="标签" friends="友情链接" about="关于我"/>
 </nav>
-      <div class="body-wrap"><article id="post-常用技术网站" class="article article-type-post" itemscope itemprop="blogPost">
+      <div class="body-wrap"><article id="post-Mac上brew的使用" class="article article-type-post" itemscope itemprop="blogPost">
   
     <div class="article-meta">
-      <a href="/2017/03/23/常用技术网站/" class="article-date">
-      <time datetime="2017-03-23T03:29:22.000Z" itemprop="datePublished">2017-03-23</time>
+      <a href="/2017/04/01/Mac上brew的使用/" class="article-date">
+      <time datetime="2017-03-31T17:18:47.000Z" itemprop="datePublished">2017-04-01</time>
 </a>
 
 
@@ -300,7 +300,7 @@
         
   
     <h1 class="article-title" itemprop="name">
-      常用技术网站
+      Mac上Homebrew的使用
     </h1>
   
 
@@ -310,6 +310,10 @@
         
 
         
+    <div class="article-tag tagcloud">
+        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Homebrew/">Homebrew</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Mac/">Mac</a></li></ul>
+    </div>
+
         <div class="clearfix"></div>
       </div>
       
@@ -317,7 +321,52 @@
     <div class="article-entry" itemprop="articleBody">
       
           
-        <p><a href="http://www.csdn.net/" target="_blank" rel="external">CSDN.NET - 全球最大中文 IT 社区，为 IT 专业技术人员提供最全面的信息传播和服务平台</a></p>
+        <blockquote>
+<p>Homebrew又叫brew，是Mac OSX上的软件包管理工具，能在Mac中方便的安装软件或者卸载软件， 只需要一个命令， 非常方便brew类似ubuntu系统下的apt-get的功能。<a href="https://brew.sh/" target="_blank" rel="external">Homebrew官网</a>（多语言版本）简单明了地介绍了如何安装和使用这个工具，并提供了自己的Wiki。</p>
+</blockquote>
+<h1 id="Homebrew的使用"><a href="#Homebrew的使用" class="headerlink" title="Homebrew的使用"></a>Homebrew的使用</h1><h3 id="安装Homebrew"><a href="#安装Homebrew" class="headerlink" title="安装Homebrew"></a>安装Homebrew</h3><p>在Mac中打开终端输入命令：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">/usr/bin/ruby -e &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;</div></pre></td></tr></table></figure></p>
+<h3 id="使用Homebrew安装软件"><a href="#使用Homebrew安装软件" class="headerlink" title="使用Homebrew安装软件"></a>使用Homebrew安装软件</h3><p>当brew安装成功后，就可以随意安装自己想要的软件了，例如wget，命令如下：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">brew install wget</div></pre></td></tr></table></figure></p>
+<p>实际上，Homebrew将软件包分装到单独的目录（/usr/local/Cellar），然后 symlink 到 /usr/local/bin中。 </p>
+<h3 id="使用brew卸载软件"><a href="#使用brew卸载软件" class="headerlink" title="使用brew卸载软件"></a>使用brew卸载软件</h3><p>卸载的话，命令如下：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">brew uninstall wget</div></pre></td></tr></table></figure></p>
+<h3 id="使用brew搜索软件"><a href="#使用brew搜索软件" class="headerlink" title="使用brew搜索软件"></a>使用brew搜索软件</h3><p>有时候，你不知道你安装的软件的名字， 那么你需要先搜索下, 查到包的名字。<br>比如我要安装：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">brew search /wge*/</div></pre></td></tr></table></figure></p>
+<p>/wge*/是个正则表达式， 需要包含在/中</p>
+<h3 id="其他brew命令"><a href="#其他brew命令" class="headerlink" title="其他brew命令"></a>其他brew命令</h3><table>
+<thead>
+<tr>
+<th>命令</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>brew list</td>
+<td>列出已安装的软件</td>
+</tr>
+<tr>
+<td>brew update</td>
+<td>更新brew</td>
+</tr>
+<tr>
+<td>brew home</td>
+<td>用浏览器打开brew的官方网站</td>
+</tr>
+<tr>
+<td>brew info</td>
+<td>显示软件信息</td>
+</tr>
+<tr>
+<td>brew deps</td>
+<td>显示包依赖</td>
+</tr>
+</tbody>
+</table>
+<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ul>
+<li><a href="http://blog.sina.com.cn/s/blog_8e5d24890102w09f.html" target="_blank" rel="external">Mac上brew的使用 (Homebrew 使 OS X 更完整) </a></li>
+<li><a href="http://blog.csdn.net/aaawqqq/article/details/44088141" target="_blank" rel="external">mac安装brew 软件包管理工具Homebrew</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/22598799" target="_blank" rel="external">Homebrew总结</a></li>
+<li><a href="http://icyleaf.com/2014/01/homebrew-hidden-commands/" target="_blank" rel="external">Homebrew 隐藏命令</a></li>
+<li><a href="http://www.cnblogs.com/TankXiao/p/3247113.html" target="_blank" rel="external">Mac入门（三）使用brew安装软件</a></li>
+</ul>
 
       
     </div>
@@ -326,13 +375,13 @@
   
     
     <div class="copyright">
-        <p><span>本文标题:</span><a href="/2017/03/23/常用技术网站/">常用技术网站</a></p>
+        <p><span>本文标题:</span><a href="/2017/04/01/Mac上brew的使用/">Mac上Homebrew的使用</a></p>
         <p><span>文章作者:</span><a href="/" title="回到主页">Lianjiang Chen</a></p>
-        <p><span>发布时间:</span>2017-03-23, 11:29:22</p>
-        <p><span>最后更新:</span>2017-03-25, 17:09:35</p>
+        <p><span>发布时间:</span>2017-04-01, 01:18:47</p>
+        <p><span>最后更新:</span>2017-04-01, 02:18:03</p>
         <p>
-            <span>原始链接:</span><a class="post-url" href="/2017/03/23/常用技术网站/" title="常用技术网站">http://chenlianjiang.github.io/2017/03/23/常用技术网站/</a>
-            <span class="copy-path" data-clipboard-text="原文: http://chenlianjiang.github.io/2017/03/23/常用技术网站/　　作者: Lianjiang Chen" title="点击复制文章链接"><i class="fa fa-clipboard"></i></span>
+            <span>原始链接:</span><a class="post-url" href="/2017/04/01/Mac上brew的使用/" title="Mac上Homebrew的使用">http://chenlianjiang.github.io/2017/04/01/Mac上brew的使用/</a>
+            <span class="copy-path" data-clipboard-text="原文: http://chenlianjiang.github.io/2017/04/01/Mac上brew的使用/　　作者: Lianjiang Chen" title="点击复制文章链接"><i class="fa fa-clipboard"></i></span>
             <script> var clipboard = new Clipboard('.copy-path'); </script>
         </p>
         <p>
@@ -345,15 +394,15 @@
     <nav id="article-nav">
         
             <div id="article-nav-newer" class="article-nav-title">
-                <a href="/2017/03/27/求职之路与职业规划/">
-                    求职之路与职业规划
+                <a href="/2017/04/01/Mac上常用工具/">
+                    Mac上常用工具
                 </a>
             </div>
         
         
             <div id="article-nav-older" class="article-nav-title">
-                <a href="/2017/03/17/Hexo搭建个人博客/">
-                    Hexo搭建个人博客
+                <a href="/2017/03/29/优雅使用jQuery/">
+                    优雅使用jQuery
                 </a>
             </div>
         
@@ -365,7 +414,7 @@
     <div id="toc" class="toc-article">
         <strong class="toc-title">文章目录</strong>
         
-            
+            <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#Homebrew的使用"><span class="toc-number">1.</span> <span class="toc-text">Homebrew的使用</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#安装Homebrew"><span class="toc-number">1.0.1.</span> <span class="toc-text">安装Homebrew</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#使用Homebrew安装软件"><span class="toc-number">1.0.2.</span> <span class="toc-text">使用Homebrew安装软件</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#使用brew卸载软件"><span class="toc-number">1.0.3.</span> <span class="toc-text">使用brew卸载软件</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#使用brew搜索软件"><span class="toc-number">1.0.4.</span> <span class="toc-text">使用brew搜索软件</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#其他brew命令"><span class="toc-number">1.0.5.</span> <span class="toc-text">其他brew命令</span></a></li></ol></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#参考资料"><span class="toc-number">2.</span> <span class="toc-text">参考资料</span></a></li></ol>
         
     </div>
     <style>
@@ -401,7 +450,7 @@
         </div>
         <script>
             window._bd_share_config={
-                "common":{"bdSnsKey":{},"bdText":"常用技术网站　| Chenlj　","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+                "common":{"bdSnsKey":{},"bdText":"Mac上Homebrew的使用　| Chenlj　","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
         </script>
     
 
@@ -421,7 +470,7 @@
 
     <div class="scroll" id="post-nav-button">
         
-            <a href="/2017/03/27/求职之路与职业规划/" title="上一篇: 求职之路与职业规划">
+            <a href="/2017/04/01/Mac上常用工具/" title="上一篇: Mac上常用工具">
                 <i class="fa fa-angle-left"></i>
             </a>
         
@@ -429,7 +478,7 @@
         <a title="文章列表"><i class="fa fa-bars"></i><i class="fa fa-times"></i></a>
 
         
-            <a href="/2017/03/17/Hexo搭建个人博客/" title="下一篇: Hexo搭建个人博客">
+            <a href="/2017/03/29/优雅使用jQuery/" title="下一篇: 优雅使用jQuery">
                 <i class="fa fa-angle-right"></i>
             </a>
         
