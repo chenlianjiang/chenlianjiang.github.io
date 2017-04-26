@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[常用技术网站]]></title>
+      <url>%2F2017%2F10%2F10%2F%E5%B8%B8%E7%94%A8%E6%8A%80%E6%9C%AF%E7%BD%91%E7%AB%99%2F</url>
+      <content type="text"><![CDATA[开发者头条 程序员分享平台 | 程序员必装的App | 技术极客的头条新闻 掘金 掘金是一款面向互联网技术人的内容社区，是给开发者用的 Hacker News，给设计师用的 Designer News，和给产品经理用的 Medium。掘金的技术文章由稀土上聚集的技术大牛和极客共同编辑为你筛选出最优质的干货，其中包括：Android、iOS、前端、后端等方面的内容。用户每天都可以在这里找到技术世界的头条内容。与此同时，掘金内还有沸点、掘金翻译计划、线下活动、专栏文章等内容。即使你是 GitHub、StackOverflow、开源中国的用户，我们相信你也可以在这里有所收获。 伯乐在线 做最专业的IT互联网职业社区。 CSDN.NET 全球最大中文 IT 社区，为 IT 专业技术人员提供最全面的信息传播和服务平台]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[正则表达式]]></title>
       <url>%2F2017%2F04%2F24%2F%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%2F</url>
       <content type="text"><![CDATA[入门进阶参考语言相关PHPPHP基础系列之正则表达式(一) https://segmentfault.com/a/1190000009002895?utm_source=tuicool&amp;utm_medium=referral]]></content>
@@ -146,13 +153,6 @@
       <title><![CDATA[求职之路与职业规划]]></title>
       <url>%2F2017%2F03%2F27%2F%E6%B1%82%E8%81%8C%E4%B9%8B%E8%B7%AF%E4%B8%8E%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%2F</url>
       <content type="text"><![CDATA[2017年PHP程序员未来路在何方-韩天峰]]></content>
-    </entry>
-
-    
-    <entry>
-      <title><![CDATA[常用技术网站]]></title>
-      <url>%2F2017%2F03%2F23%2F%E5%B8%B8%E7%94%A8%E6%8A%80%E6%9C%AF%E7%BD%91%E7%AB%99%2F</url>
-      <content type="text"><![CDATA[CSDN.NET - 全球最大中文 IT 社区，为 IT 专业技术人员提供最全面的信息传播和服务平台伯乐在线]]></content>
     </entry>
 
     
