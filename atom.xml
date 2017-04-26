@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Chenlj</title>
-  <subtitle>热爱技术，追求幸福</subtitle>
+  <subtitle>生活不止眼前的苟且，还有永远读不懂的诗和到不了的远方。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chenlianjiang.github.io/"/>
-  <updated>2017-04-04T06:38:04.000Z</updated>
+  <updated>2017-04-26T08:18:38.000Z</updated>
   <id>http://chenlianjiang.github.io/</id>
   
   <author>
@@ -16,11 +16,332 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>正则表达式</title>
+    <link href="http://chenlianjiang.github.io/2017/04/24/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+    <id>http://chenlianjiang.github.io/2017/04/24/正则表达式/</id>
+    <published>2017-04-24T08:40:09.000Z</published>
+    <updated>2017-04-26T08:18:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="入门"><a href="#入门" class="headerlink" title="入门"></a>入门</h1><h1 id="进阶"><a href="#进阶" class="headerlink" title="进阶"></a>进阶</h1><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><h1 id="语言相关"><a href="#语言相关" class="headerlink" title="语言相关"></a>语言相关</h1><h2 id="PHP"><a href="#PHP" class="headerlink" title="PHP"></a>PHP</h2><pre><code>PHP基础系列之正则表达式(一)
+https://segmentfault.com/a/1190000009002895?utm_source=tuicool&amp;utm_medium=referral
+</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;入门&quot;&gt;&lt;a href=&quot;#入门&quot; class=&quot;headerlink&quot; title=&quot;入门&quot;&gt;&lt;/a&gt;入门&lt;/h1&gt;&lt;h1 id=&quot;进阶&quot;&gt;&lt;a href=&quot;#进阶&quot; class=&quot;headerlink&quot; title=&quot;进阶&quot;&gt;&lt;/a&gt;进阶&lt;/h1&gt;&lt;h1 id
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>HTTP协议</title>
+    <link href="http://chenlianjiang.github.io/2017/04/24/HTTP%E5%8D%8F%E8%AE%AE/"/>
+    <id>http://chenlianjiang.github.io/2017/04/24/HTTP协议/</id>
+    <published>2017-04-24T07:36:50.000Z</published>
+    <updated>2017-04-26T08:19:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Go HTTP Redirect 的知识点总结<br><a href="http://colobu.com/2017/04/19/go-http-redirect/?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io" target="_blank" rel="external">http://colobu.com/2017/04/19/go-http-redirect/?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io</a><br>HTTP 笔记（一）<br><a href="http://www.cnblogs.com/52fhy/p/6426569.html" target="_blank" rel="external">http://www.cnblogs.com/52fhy/p/6426569.html</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Go HTTP Redirect 的知识点总结&lt;br&gt;&lt;a href=&quot;http://colobu.com/2017/04/19/go-http-redirect/?hmsr=toutiao.io&amp;amp;utm_medium=toutiao.io&amp;amp;utm_sour
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于Node.js</title>
+    <link href="http://chenlianjiang.github.io/2017/04/24/%E5%85%B3%E4%BA%8ENode-js/"/>
+    <id>http://chenlianjiang.github.io/2017/04/24/关于Node-js/</id>
+    <published>2017-04-24T07:32:14.000Z</published>
+    <updated>2017-04-26T08:19:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://cnodejs.org/topic/58eee565a92d341e48cfe7fc?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io" target="_blank" rel="external">2017，我们来聊聊 Node.js</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://cnodejs.org/topic/58eee565a92d341e48cfe7fc?hmsr=toutiao.io&amp;amp;utm_medium=toutiao.io&amp;amp;utm_source=toutiao.io&quot; target=&quot;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>面试经验</title>
+    <link href="http://chenlianjiang.github.io/2017/04/24/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C/"/>
+    <id>http://chenlianjiang.github.io/2017/04/24/面试经验/</id>
+    <published>2017-04-24T03:14:24.000Z</published>
+    <updated>2017-04-26T08:19:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="面试过程中提问什么"><a href="#面试过程中提问什么" class="headerlink" title="面试过程中提问什么"></a>面试过程中提问什么</h2><p>目前您的团队面临的最大挑战是什么？<br>公司和团队主要方向<br>团队的定位<br>员工的成长与晋升</p>
+<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><p><a href="http://www.jianshu.com/p/47d71eaeeccb?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io" target="_blank" rel="external">开发者面试指南</a></p>
+<blockquote>
+<p>面试过程中提问什么</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;面试过程中提问什么&quot;&gt;&lt;a href=&quot;#面试过程中提问什么&quot; class=&quot;headerlink&quot; title=&quot;面试过程中提问什么&quot;&gt;&lt;/a&gt;面试过程中提问什么&lt;/h2&gt;&lt;p&gt;目前您的团队面临的最大挑战是什么？&lt;br&gt;公司和团队主要方向&lt;br&gt;团队的定位&lt;br
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>PHP注意集锦</title>
+    <link href="http://chenlianjiang.github.io/2017/04/18/PHP%E6%B3%A8%E6%84%8F%E9%9B%86%E9%94%A6/"/>
+    <id>http://chenlianjiang.github.io/2017/04/18/PHP注意集锦/</id>
+    <published>2017-04-18T14:01:45.000Z</published>
+    <updated>2017-04-22T22:50:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul>
+<li><p><a href="http://www.awaimai.com/2078.html" target="_blank" rel="external">为什么in_array(0, [‘a’, ‘b’, ‘c’])返回true</a></p>
+<blockquote>
+<p>在PHP中，数据会自动转换类型后再进行比较。</p>
+</blockquote>
+</li>
+<li><p><a href="http://blog.jobbole.com/109093/?utm_source=blog.jobbole.com&amp;utm_medium=relatedPosts" target="_blank" rel="external">PHP 命令行下的世界</a></p>
+</li>
+</ul>
+<p><a href="http://blog.jobbole.com/108673/?utm_source=blog.jobbole.com&amp;utm_medium=relatedPosts" target="_blank" rel="external">PHP7 中我们应该学习会用的新特性</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.awaimai.com/2078.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;为什么in_array(0, [‘a’, ‘b’, ‘c’])返回true&lt;/a&gt;&lt;/p&gt;
+&lt;blockqu
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>如何提高收入</title>
+    <link href="http://chenlianjiang.github.io/2017/04/18/%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98%E6%94%B6%E5%85%A5/"/>
+    <id>http://chenlianjiang.github.io/2017/04/18/如何提高收入/</id>
+    <published>2017-04-18T05:32:30.000Z</published>
+    <updated>2017-04-18T05:33:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://jbcdn2.b0.upaiyun.com/2016/12/5316cb1517edcae40acbeaaf17578494.jpg" alt=""><br>时间对我们来说，是最公平的，每个人一天都只有24个小时，那么我们怎么用更少的时间换取更多的价值？其实时间可以从三个角度来换取更多的收入，那就是：</p>
+<h2 id="1-把每一份时间卖出得更贵"><a href="#1-把每一份时间卖出得更贵" class="headerlink" title="1.把每一份时间卖出得更贵"></a>1.把每一份时间卖出得更贵</h2><p>这也是我们最执着的一种做法。我们拼命地读书考大学，上完大学还要参加各种技能培训班，我们用N多技能来武装自己，不过是为了把自己卖出个好价钱。这种模式不是不好，但一般行业都有这个行业的天花板。</p>
+<p>比如，在iOS开发这条道路上，能走到技术金字塔顶端的人少之又少，到目前为止，也只有少量的人能称为技术大牛。比如猿题库的唐巧，滴滴的孙源，日本的喵神。我想更多的人可能是像我这样的，都是普通人。三年五年的经验达到熟练没问题，但是再往上呢？这个天花板你能突破上去吗？我想很多工作几年的人都有这种感触，工作年限上去了，但是技术上不去，职位上不去，没有任何机遇可言，如果我们只是继续拿着死工资，熬工龄，我们还能熬多久？</p>
+<p>对于技术或产品狗来说，一般年薪能到个五十万，基本也就到顶了。你想想你的每一分时间最多能卖出多少钱？卖出的价格到底还是有限的。</p>
+<p>那来看看第二点，时间还可以怎么卖？</p>
+<h2 id="2-把每一份时间卖出更多次"><a href="#2-把每一份时间卖出更多次" class="headerlink" title="2. 把每一份时间卖出更多次"></a>2. 把每一份时间卖出更多次</h2><p>这个怎么理解呢?比如作家郭敬明，他写一本小时代花了一整年的时间，但是他的书可以反复的出售，每多卖一本，他也不需要再付出更多时间了。那么他的一年时间就可以反复卖出多次。据说他的稿费都是以亿为单位的。</p>
+<p>再比如，我们熟知的公号。咪蒙提到的，她的公号一条广告卖到65万。而papi酱的公号的第一条广告，卖出了2200万的高价。这两个人的公号一篇的阅读量都在百万以上甚至更高。而一篇阅读量在一千左右的公号文，只能带来几百块的广告收入，这就是量的差距。他们写文和运营所用时间可能相差不大，但大号往往带来超高的收入。更多的阅读量，更多的人看你的文章也就意味着，你的时间卖出了更多次。</p>
+<p>第三种模式:</p>
+<h2 id="3-把每一份时间按比率卖出"><a href="#3-把每一份时间按比率卖出" class="headerlink" title="3. 把每一份时间按比率卖出"></a>3. 把每一份时间按比率卖出</h2><p>这个就是我们常说的，投资理财了。普通人去买基金股票p2p产品，通过本金带来收益，而厉害的投资人，通过投资一些创业阶段的公司，或做一些精准的投资，带来更高的收益。本质上来说，就是钱生钱。有一些p2p的产品可以达到10%左右的年化收益率，也就是你一万块，一年就可以挣到一千的利息。如果你有一百万，一年就可以挣到十万块。你的时间不再是一个值而是一种比率。这种情况下你的时间价值随着本金的上升而不断上升。</p>
+<p>这就是富人越来越富，穷人越来越穷的本质原因。富人靠着第二第三点，花更少的时间挣更多的钱，而穷人，贩卖越来越多的时间换取微薄的薪资。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://jbcdn2.b0.upaiyun.com/2016/12/5316cb1517edcae40acbeaaf17578494.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;时间对我们来说，是最公平的，每个人一天都只有24个小时，那么我们怎么用更少的时间换
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>vim学习笔记</title>
+    <link href="http://chenlianjiang.github.io/2017/04/16/vim%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://chenlianjiang.github.io/2017/04/16/vim学习笔记/</id>
+    <published>2017-04-16T10:18:33.000Z</published>
+    <updated>2017-04-16T11:00:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>vim编辑器的三种模式：一般模式、编辑模式和命令行模式。</p>
+<p>在一般模式中可以进行删除、复制和粘贴的功能，但是无法编辑文件内容。从一般模式切换到编辑模式可以按下i、I、o、O、a、A、r、R键。按下Esc键可以回到一般模式。在一般模式中输入：、/、？三个中的任意一个可以将光标移到最下面的一行。在这个模式中可以提供查找数据的操作，而读取、保存、大量替换字符、离开vii、显示行号等操作则是在此模式中完成的。需要注意的是，编辑模式与命令行模式之间是不能互相切换的。</p>
+<h1 id="快捷键"><a href="#快捷键" class="headerlink" title="快捷键"></a>快捷键</h1><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><h1 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h1><h1 id="参考文档"><a href="#参考文档" class="headerlink" title="参考文档"></a>参考文档</h1><p><a href="http://harttle.com/2013/11/08/vim-config.html" target="_blank" rel="external">Vim初级：配置和使用 </a><br><a href="http://harttle.com/2015/11/04/vim-ide.html" target="_blank" rel="external">如何用Vim搭建IDE？ </a><br><a href="http://vimcdoc.sourceforge.net/doc/" target="_blank" rel="external"></a><br><a href="http://os.51cto.com/art/201507/484174.htm" target="_blank" rel="external">Vundle：你必须了解的Linux Vim插件管理工具</a></p>
+<p><a href="http://blog.csdn.net/xiajun07061225/article/details/7039413" target="_blank" rel="external">【Linux入门学习之】vi/vim编辑器必知必会</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;vim编辑器的三种模式：一般模式、编辑模式和命令行模式。&lt;/p&gt;
+&lt;p&gt;在一般模式中可以进行删除、复制和粘贴的功能，但是无法编辑文件内容。从一般模式切换到编辑模式可以按下i、I、o、O、a、A、r、R键。按下Esc键可以回到一般模式。在一般模式中输入：、/、？三个中的任意一
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>PHP学习相关资料</title>
+    <link href="http://chenlianjiang.github.io/2017/04/09/PHP%E5%AD%A6%E4%B9%A0%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99/"/>
+    <id>http://chenlianjiang.github.io/2017/04/09/PHP学习相关资料/</id>
+    <published>2017-04-09T12:08:45.000Z</published>
+    <updated>2017-04-26T08:19:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul>
+<li><a href="codeguy/php-the-right-way">PHP之道</a><br><a href="http://laravel-china.github.io/php-the-right-way/" target="_blank" rel="external">http://laravel-china.github.io/php-the-right-way/</a><br><a href="http://phpbestpractices.justjavac.com/PHP" target="_blank" rel="external">http://phpbestpractices.justjavac.com/PHP</a> 最佳实践</li>
+</ul>
+<p> PHP Closure类详解</p>
+<h3 id="SPL"><a href="#SPL" class="headerlink" title="SPL"></a>SPL</h3><blockquote>
+<p>SPL 全称是  Standard PHP Library<br>手册  <a href="http://cn.php.net/manual/en/book.spl.php" target="_blank" rel="external">PHP: SPL - Manual</a></p>
+<ul>
+<li><a href="http://www.ruanyifeng.com/blog/2008/07/php_spl_notes.html" target="_blank" rel="external">PHP SPL 笔记</a><br><a href="http://www.cnblogs.com/yafang/p/5872187.html" target="_blank" rel="external">PHP SPL（PHP 标准库）</a><br><a href="http://www.imooc.com/learn/150" target="_blank" rel="external">站在巨人的肩膀上写代码—SPL</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;codeguy/php-the-right-way&quot;&gt;PHP之道&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://laravel-china.github.io/php-the-right-way/&quot; target=&quot;_blank&quot; rel=&quot;e
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Laravel框架学习笔记 </title>
+    <link href="http://chenlianjiang.github.io/2017/04/09/Laravel%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://chenlianjiang.github.io/2017/04/09/Laravel框架学习笔记/</id>
+    <published>2017-04-08T17:03:11.000Z</published>
+    <updated>2017-04-26T08:19:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul>
+<li><a href="https://segmentfault.com/p/1210000008920007/read" target="_blank" rel="external">laravel 神奇的服务容器</a></li>
+</ul>
+<p><a href="https://laravel.com" target="_blank" rel="external">Laravel官网</a><br><a href="http://laravelacademy.org" target="_blank" rel="external">Laravel学院</a><br><a href="https://laravel-china.org" target="_blank" rel="external">Laravel China 社区</a><br><a href="http://www.golaravel.com" target="_blank" rel="external">Laravel 中文网</a></p>
+<p><a href="https://www.laravist.com" target="_blank" rel="external">Laravel视频教程</a></p>
+<p>Laravel 完整开源项目大全<a href="http://laravelacademy.org/laravel-project" target="_blank" rel="external">http://laravelacademy.org/laravel-project</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://segmentfault.com/p/1210000008920007/read&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;laravel 神奇的服务容器&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>YII框架学习笔记 </title>
+    <link href="http://chenlianjiang.github.io/2017/04/09/YII%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://chenlianjiang.github.io/2017/04/09/YII框架学习笔记/</id>
+    <published>2017-04-08T16:48:09.000Z</published>
+    <updated>2017-04-08T16:59:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>2.0.11 版发布于 2017年02月01日 • 1.1.17 版发布于 2016年01月13日</p>
+</blockquote>
+<h1 id="学习计划"><a href="#学习计划" class="headerlink" title="学习计划"></a>学习计划</h1><p>1、通过视频学习操作并做好记录</p>
+<h1 id="入门"><a href="#入门" class="headerlink" title="入门"></a>入门</h1><h1 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h1><p><a href="http://www.yiichina.com/video" target="_blank" rel="external">魏曦教你学 - Yii2.0 视频教程</a></p>
+<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><p><a href="http://www.yiiframework.com" target="_blank" rel="external">Yii英文官网</a><br><a href="http://www.yiichina.com" target="_blank" rel="external">Yii Framework中文网</a><br><a href="http://www.yii-china.com" target="_blank" rel="external">Yii中文网</a></p>
+<h1 id="开源项目"><a href="#开源项目" class="headerlink" title="开源项目"></a>开源项目</h1><p><a href="http://www.yiifcms.com" target="_blank" rel="external">YIIFCMS</a></p>
+<blockquote>
+<p>yiifcms是基于yii框架开发的内容管理系统(CMS)，功能强大，运行高效，稳定安全，是学习php和建站的良好选择。</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      Yii 是一个 高性能 的，适用于开发 WEB 2.0 应用的 PHP 框架。Yii 自带了 丰富的功能，包括 MVC，DAO/ActiveRecord，I18N/L10N，缓存，身份验证和基于角色的访问控制，脚手架，测试等，可显著缩短开发时间。
+    
+    </summary>
+    
+    
+      <category term="PHP" scheme="http://chenlianjiang.github.io/tags/PHP/"/>
+    
+      <category term="框架" scheme="http://chenlianjiang.github.io/tags/%E6%A1%86%E6%9E%B6/"/>
+    
+      <category term="Yii" scheme="http://chenlianjiang.github.io/tags/Yii/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自定义使用Sublime Text 3</title>
+    <link href="http://chenlianjiang.github.io/2017/04/09/%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BD%BF%E7%94%A8Sublime-Text-3/"/>
+    <id>http://chenlianjiang.github.io/2017/04/09/自定义使用Sublime-Text-3/</id>
+    <published>2017-04-08T16:11:46.000Z</published>
+    <updated>2017-04-08T16:17:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><p><a href="http://jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/#eight" target="_blank" rel="external">如何优雅地使用Sublime Text3</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;http://jeffjade.com/2015/12/15/2015-04-17-toss-sublim
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>tmux：终端复用利器</title>
+    <link href="http://chenlianjiang.github.io/2017/04/05/tmux%EF%BC%9A%E7%BB%88%E7%AB%AF%E5%A4%8D%E7%94%A8%E5%88%A9%E5%99%A8/"/>
+    <id>http://chenlianjiang.github.io/2017/04/05/tmux：终端复用利器/</id>
+    <published>2017-04-05T03:24:00.000Z</published>
+    <updated>2017-04-26T08:19:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://leehao.me/tmux：终端复用利器/?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io" target="_blank" rel="external">tmux：终端复用利器</a></p>
+<p><a href="http://harttle.com/2015/11/06/tmux-startup.html" target="_blank" rel="external">优雅地使用命令行：Tmux 终端复用 </a></p>
+<p>为什么使用 tmux <a href="http://www.cnblogs.com/itech/archive/2012/12/17/2822170.html" target="_blank" rel="external">http://www.cnblogs.com/itech/archive/2012/12/17/2822170.html</a></p>
+<h1 id="常用命令使用"><a href="#常用命令使用" class="headerlink" title="常用命令使用"></a>常用命令使用</h1><h1 id="原理理解"><a href="#原理理解" class="headerlink" title="原理理解"></a>原理理解</h1><h1 id="修改配置"><a href="#修改配置" class="headerlink" title="修改配置"></a>修改配置</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://leehao.me/tmux：终端复用利器/?hmsr=toutiao.io&amp;amp;utm_medium=toutiao.io&amp;amp;utm_source=toutiao.io&quot; target=&quot;_blank&quot; rel=&quot;externa
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>PHP依赖注入学习笔记</title>
+    <link href="http://chenlianjiang.github.io/2017/04/04/PHP%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://chenlianjiang.github.io/2017/04/04/PHP依赖注入学习笔记/</id>
+    <published>2017-04-04T07:59:50.000Z</published>
+    <updated>2017-04-16T09:41:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ul>
+<li><p><a href="http://www.cnblogs.com/liuhaorain/p/3747470.html" target="_blank" rel="external">深入理解DIP、IoC、DI以及IoC容器</a></p>
+</li>
+<li><p><a href="https://segmentfault.com/a/1190000002424023" target="_blank" rel="external">PHP程序员如何理解依赖注入容器(dependency injection container)</a></p>
+</li>
+<li><p><a href="https://segmentfault.com/a/1190000007209266" target="_blank" rel="external">聊一聊PHP的依赖注入(DI) 和 控制反转(IoC)</a></p>
+</li>
+<li><p><a href="https://segmentfault.com/p/1210000008920007/read" target="_blank" rel="external">laravel 神奇的服务容器</a></p>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.cnblogs.com/liuhaorain/p/3747470.
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>创建一个自己的【Composer/Packagist】包</title>
     <link href="http://chenlianjiang.github.io/2017/04/04/%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E3%80%90Composer-Packagist%E3%80%91%E5%8C%85/"/>
     <id>http://chenlianjiang.github.io/2017/04/04/创建一个自己的【Composer-Packagist】包/</id>
     <published>2017-04-03T20:44:57.000Z</published>
-    <updated>2017-04-04T06:38:04.000Z</updated>
+    <updated>2017-04-04T07:27:06.000Z</updated>
     
     <content type="html"><![CDATA[<p>创建【Composer/Packagist】包有有以下几个步骤：</p>
 <ul>
@@ -30,23 +351,33 @@
 <li>提交到 GitHub</li>
 <li>在Packagist注册包</li>
 </ul>
-<h1 id="TodoList"><a href="#TodoList" class="headerlink" title="TodoList"></a>TodoList</h1><ul>
+<h1 id="TodoList"><a href="#TodoList" class="headerlink" title="TodoList"></a>TodoList</h1><blockquote>
+<p>还有很多需要做的，我也只是在学习，学的越多，发现需要学的越多</p>
+<ul>
 <li>代码优化</li>
 <li>包加载调用库</li>
 </ul>
+</blockquote>
+<h1 id="学习到到内容"><a href="#学习到到内容" class="headerlink" title="学习到到内容"></a>学习到到内容</h1><ul>
+<li>开发包测试</li>
+<li>命名空间</li>
+<li>composer自动加载</li>
+<li>github中hook自动更新</li>
+</ul>
 <h1 id="项目地址"><a href="#项目地址" class="headerlink" title="项目地址"></a>项目地址</h1><ul>
 <li><a href="https://github.com/chenlianjiang/composer-test" target="_blank" rel="external">GitHub地址</a></li>
-<li><a href="https://packagist.org/packages/chenlianjiang/composer-test" target="_blank" rel="external">目前没有设置自动更新，每次修改还需要手动更新</a></li>
 </ul>
 <h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ul>
 <li><a href="https://segmentfault.com/n/1330000006227425" target="_blank" rel="external">如何创建一个自己的【Composer/Packagist】包</a></li>
 <li><a href="http://blog.jayxhj.com/2016/05/basic-composer-package-development/?utm_source=tuicool&amp;utm_medium=referral" target="_blank" rel="external">动手开发自己的第一个 composer 包</a></li>
+<li><a href="http://www.huyanping.cn/composer%e4%b9%8b%e5%88%9b%e5%bb%ba%e8%87%aa%e5%b7%b1%e7%9a%84%e5%8c%85/" target="_blank" rel="external">composer之创建自己的包</a></li>
+<li><a href="http://www.w2bc.com/article/223309" target="_blank" rel="external">通过 Composer Github Packagist制作发布共享PHP包</a></li>
 </ul>
 ]]></content>
     
     <summary type="html">
     
-      本文介绍创建一个自己的【Composer/Packagist】包，并提交到[Packagist](https://packagist.org/).
+      本文介绍创建一个自己的【Composer/Packagist】包，并提交到[Packagist](https://packagist.org/). 持续更新中，后续将本文通过图文形式，细致的优化，目前不打算化那么多多时间和精力，只是作为个人多学习记录。文中涉及问题有疑问还原私我，微信：chen770687650
     
     </summary>
     
@@ -103,7 +434,7 @@
     <link href="http://chenlianjiang.github.io/2017/04/04/Composer%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     <id>http://chenlianjiang.github.io/2017/04/04/Composer学习笔记/</id>
     <published>2017-04-03T17:56:24.000Z</published>
-    <updated>2017-04-03T20:28:32.000Z</updated>
+    <updated>2017-04-16T09:41:12.000Z</updated>
     
     <content type="html"><![CDATA[<ul>
 <li>Composer 将这样为你解决问题：</li>
@@ -116,14 +447,25 @@
 <li><a href="http://www.phpcomposer.com/" target="_blank" rel="external">Composer 中文网站</a></li>
 <li><a href="https://packagist.org/" target="_blank" rel="external">Composer Hub 地址</a></li>
 <li><a href="https://getcomposer.org/" target="_blank" rel="external">Composer 官网</a></li>
+<li><a href="https://laravel-china.org/topics/1002/deep-composer-autoload" target="_blank" rel="external">深入 Composer autoload </a></li>
+<li><p><a href="https://segmentfault.com/a/1190000007397865" target="_blank" rel="external">你所不知道的 PHP - 自动加载</a></p>
+</li>
+<li><p><a href="https://lvwenhan.com/php/405.html" target="_blank" rel="external">利用 Composer 一步一步构建自己的 PHP 框架</a></p>
+</li>
 </ul>
+<ul>
+<li><p><a href="https://my.oschina.net/1pei/blog/485099" target="_blank" rel="external">FIG-PHP PSR规范系列4-自动加载</a></p>
+</li>
+<li><p><a href="http://www.cnblogs.com/52php/p/5852572.html" target="_blank" rel="external">PHP中PSR-[0-4]代码规范</a></p>
+</li>
+</ul>
+<p>PHP 标准规范<a href="https://psr.phphub.org/" target="_blank" rel="external">https://psr.phphub.org/</a></p>
 <h1 id="TodoList"><a href="#TodoList" class="headerlink" title="TodoList"></a>TodoList</h1><ul>
 <li>通过文档学习使用</li>
 <li>创建自己的仓库并安装使用</li>
 <li>熟悉composer操作全过程以及相关参数</li>
 <li>常见问题搜集</li>
 </ul>
-<p>1、composer 3小时<br>2、composer搭建框架2小时<br>3、微信机器人源码学习</p>
 ]]></content>
     
     <summary type="html">
@@ -247,7 +589,7 @@
     <link href="http://chenlianjiang.github.io/2017/03/29/%E4%BC%98%E9%9B%85%E4%BD%BF%E7%94%A8jQuery/"/>
     <id>http://chenlianjiang.github.io/2017/03/29/优雅使用jQuery/</id>
     <published>2017-03-29T03:22:39.000Z</published>
-    <updated>2017-03-31T17:42:05.000Z</updated>
+    <updated>2017-04-26T08:18:47.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>结合《锋利的jQuery》学习，记录属于自己的知识。jQuery是一个轻量级的库，拥有强大的选择器，出色的DOM操作，可靠的事件处理、完善的兼容性和链式操作等功能。</p>
@@ -258,7 +600,7 @@
 <li><p>编写简单的jQuery代码</p>
 </li>
 </ul>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div></pre></td><td class="code"><pre><div class="line">&lt;!DOCTYPE html&gt;</div><div class="line">&lt;html lang=&quot;en&quot;&gt;</div><div class="line">&lt;head&gt;</div><div class="line">    &lt;meta charset=&quot;UTF-8&quot;&gt;</div><div class="line">    &lt;title&gt;jQuery01&lt;/title&gt;</div><div class="line">&lt;/head&gt;</div><div class="line">&lt;body&gt;</div><div class="line"></div><div class="line">&lt;/body&gt;</div><div class="line">&lt;script src=&quot;//cdn.bootcss.com/jquery/1.7.1/jquery.min.js&quot;&gt;&lt;/script&gt;</div><div class="line">&lt;script&gt;</div><div class="line">    $(document).ready(function() &#123;</div><div class="line">        alert(&quot;Hello World&quot;);</div><div class="line">    &#125;);</div><div class="line">    $(function() &#123;      </div><div class="line">        alert(&apos;tess&apos;);</div><div class="line">    &#125;)</div><div class="line">    $(document).ready(function () &#123;</div><div class="line">        </div><div class="line">    &#125;);</div><div class="line">&lt;/script&gt;</div><div class="line">&lt;/html&gt;</div></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div></pre></td><td class="code"><pre><div class="line">&lt;!DOCTYPE html&gt;</div><div class="line">&lt;html lang=&quot;en&quot;&gt;</div><div class="line">&lt;head&gt;</div><div class="line">    &lt;meta charset=&quot;UTF-8&quot;&gt;</div><div class="line">    &lt;title&gt;jQuery01&lt;/title&gt;</div><div class="line">&lt;/head&gt;</div><div class="line">&lt;body&gt;</div><div class="line"></div><div class="line">&lt;/body&gt;</div><div class="line">&lt;script src=&quot;//cdn.bootcss.com/jquery/1.7.1/jquery.min.js&quot;&gt;&lt;/script&gt;</div><div class="line">&lt;script&gt;</div><div class="line">    $(document).ready(function() &#123;</div><div class="line">        alert(&quot;Hello World&quot;);</div><div class="line">    &#125;);</div><div class="line">    $(function() &#123;      </div><div class="line">        alert(&apos;tess&apos;);</div><div class="line">    &#125;)</div><div class="line">    $(document).ready(function () &#123;</div><div class="line"></div><div class="line">    &#125;);</div><div class="line">&lt;/script&gt;</div><div class="line">&lt;/html&gt;</div></pre></td></tr></table></figure>
 <blockquote>
 <p>window.onload和$(document).ready()的对比</p>
 </blockquote>
@@ -475,137 +817,9 @@
     <link href="http://chenlianjiang.github.io/2017/03/28/%E6%8A%80%E6%9C%AF%E6%A0%88/"/>
     <id>http://chenlianjiang.github.io/2017/03/28/技术栈/</id>
     <published>2017-03-28T09:17:47.000Z</published>
-    <updated>2017-04-03T17:54:43.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="h5游戏引擎"><a href="#h5游戏引擎" class="headerlink" title="h5游戏引擎"></a>h5游戏引擎</h2><ul>
-<li><a href="https://www.egret.com/" target="_blank" rel="external">https://www.egret.com/</a>    </li>
-<li><a href="http://www.pixijs.com/" target="_blank" rel="external">http://www.pixijs.com/</a></li>
-<li>Phaser<br>-</li>
-</ul>
-<p><a href="https://lvwenhan.com/php/405.html" target="_blank" rel="external">利用 Composer 一步一步构建自己的 PHP 框架（一）——基础准备</a></p>
-<p>PSR-0 到 PSR-4 五套 PHP 非官方规范：</p>
-<ol>
-<li><p>PSR-0 (Autoloading Standard) 自动加载标准</p>
-</li>
-<li><p>PSR-1 (Basic Coding Standard) 基础编码标准</p>
-</li>
-<li><p>PSR-2 (Coding Style Guide) 编码风格向导</p>
-</li>
-<li><p>PSR-3 (Logger Interface) 日志接口</p>
-</li>
-<li><p>PSR-4 (Improved Autoloading) 自动加载优化标准</p>
-</li>
-</ol>
-<p>Composer 利用 PSR-0 和 PSR-4 以及 PHP5.3 的命名空间构造了一个繁荣的 PHP 生态系统。Composer 类似著名的 npm 和 RubyGems，给海量 PHP 包提供了一个异常方便的协作通道，Composer Hub 地址：<a href="https://packagist.org/。Composer" target="_blank" rel="external">https://packagist.org/。Composer</a> 中文网站：<a href="http://www.phpcomposer.com/。" target="_blank" rel="external">http://www.phpcomposer.com/。</a></p>
-]]></content>
+    <updated>2017-04-26T08:18:42.000Z</updated>
     
     <summary type="html">
-    
-      &lt;h2 id=&quot;h5游戏引擎&quot;&gt;&lt;a href=&quot;#h5游戏引擎&quot; class=&quot;headerlink&quot; title=&quot;h5游戏引擎&quot;&gt;&lt;/a&gt;h5游戏引擎&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.egret.com/&quot; target=&quot;_blank&quot;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>求职之路与职业规划</title>
-    <link href="http://chenlianjiang.github.io/2017/03/27/%E6%B1%82%E8%81%8C%E4%B9%8B%E8%B7%AF%E4%B8%8E%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/"/>
-    <id>http://chenlianjiang.github.io/2017/03/27/求职之路与职业规划/</id>
-    <published>2017-03-27T07:16:15.000Z</published>
-    <updated>2017-03-27T07:47:27.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote>
-<p>求职之路,找到合适的不容易</p>
-</blockquote>
-<h2 id="面试准备"><a href="#面试准备" class="headerlink" title="面试准备"></a>面试准备</h2>]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;求职之路,找到合适的不容易&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;面试准备&quot;&gt;&lt;a href=&quot;#面试准备&quot; class=&quot;headerlink&quot; title=&quot;面试准备&quot;&gt;&lt;/a&gt;面试准备&lt;/h2&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>常用技术网站</title>
-    <link href="http://chenlianjiang.github.io/2017/03/23/%E5%B8%B8%E7%94%A8%E6%8A%80%E6%9C%AF%E7%BD%91%E7%AB%99/"/>
-    <id>http://chenlianjiang.github.io/2017/03/23/常用技术网站/</id>
-    <published>2017-03-23T03:29:22.000Z</published>
-    <updated>2017-03-25T09:09:35.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="http://www.csdn.net/" target="_blank" rel="external">CSDN.NET - 全球最大中文 IT 社区，为 IT 专业技术人员提供最全面的信息传播和服务平台</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;http://www.csdn.net/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CSDN.NET - 全球最大中文 IT 社区，为 IT 专业技术人员提供最全面的信息传播和服务平台&lt;/a&gt;&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo搭建个人博客</title>
-    <link href="http://chenlianjiang.github.io/2017/03/17/Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://chenlianjiang.github.io/2017/03/17/Hexo搭建个人博客/</id>
-    <published>2017-03-17T06:04:32.000Z</published>
-    <updated>2017-03-27T07:47:45.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="添加Local-Search功能"><a href="#添加Local-Search功能" class="headerlink" title="添加Local Search功能"></a>添加Local Search功能</h2><p>安装 hexo-generator-searchdb,在你的站点文件夹中，用shell等运行下面这行代码：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm install hexo-generator-searchdb --save</div></pre></td></tr></table></figure></p>
-<p>编辑站点配置文件添加以下字段<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">search:</div><div class="line">  path: search.xml</div><div class="line">  field: post</div><div class="line">  format: html</div><div class="line">  limit: 10000</div></pre></td></tr></table></figure></p>
-<p>编辑主题配置文件启用本地搜索<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"># Local search</div><div class="line">local_search:</div><div class="line">  enable: true</div></pre></td></tr></table></figure></p>
-<h2 id="添加百度统计"><a href="#添加百度统计" class="headerlink" title="添加百度统计"></a>添加百度统计</h2><ul>
-<li>注册并登陆<a href="http://tongji.baidu.com/web/welcome/login" target="_blank" rel="external">百度统计</a></li>
-<li>在网站中心–&gt;代码获取中点击复制代码 </li>
-<li>打开F:\Hexo\themes\pacman\layout\after_footer.ejs文件,把刚才复制的代码复制到最下面即可;</li>
-<li>然后在网站中心–&gt;代码安装检查中检测代码是否添加成功<blockquote>
-<p>注意:因为主题用的不同,可能代码添加位置也不一样,但基本都是在/themes/yourtheme/layout/after_footer.ejs中添加即可</p>
-</blockquote>
-</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;添加Local-Search功能&quot;&gt;&lt;a href=&quot;#添加Local-Search功能&quot; class=&quot;headerlink&quot; title=&quot;添加Local Search功能&quot;&gt;&lt;/a&gt;添加Local Search功能&lt;/h2&gt;&lt;p&gt;安装 hexo-genera
-    
-    </summary>
-    
-    
-      <category term="Hexo" scheme="http://chenlianjiang.github.io/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://chenlianjiang.github.io/2017/03/17/hello-world/"/>
-    <id>http://chenlianjiang.github.io/2017/03/17/hello-world/</id>
-    <published>2017-03-17T05:40:19.000Z</published>
-    <updated>2017-03-17T05:40:19.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
     
     </summary>
     
