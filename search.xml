@@ -1,692 +1,174 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   
-  
     
     <entry>
       <title><![CDATA[正则表达式]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/24/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</url>
-      <content type="html"><![CDATA[<h1 id="入门"><a href="#入门" class="headerlink" title="入门"></a>入门</h1><h1 id="进阶"><a href="#进阶" class="headerlink" title="进阶"></a>进阶</h1><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><h1 id="语言相关"><a href="#语言相关" class="headerlink" title="语言相关"></a>语言相关</h1><h2 id="PHP"><a href="#PHP" class="headerlink" title="PHP"></a>PHP</h2><pre><code>PHP基础系列之正则表达式(一)
-https://segmentfault.com/a/1190000009002895?utm_source=tuicool&amp;utm_medium=referral
-</code></pre>]]></content>
-      
-        
+      <url>%2F2017%2F04%2F24%2F%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%2F</url>
+      <content type="text"><![CDATA[入门进阶参考语言相关PHPPHP基础系列之正则表达式(一) https://segmentfault.com/a/1190000009002895?utm_source=tuicool&amp;utm_medium=referral]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[HTTP协议]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/24/HTTP%E5%8D%8F%E8%AE%AE/</url>
-      <content type="html"><![CDATA[<p>Go HTTP Redirect 的知识点总结<br><a href="http://colobu.com/2017/04/19/go-http-redirect/?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io" target="_blank" rel="external">http://colobu.com/2017/04/19/go-http-redirect/?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io</a><br>HTTP 笔记（一）<br><a href="http://www.cnblogs.com/52fhy/p/6426569.html" target="_blank" rel="external">http://www.cnblogs.com/52fhy/p/6426569.html</a></p>
-]]></content>
-      
-        
+      <url>%2F2017%2F04%2F24%2FHTTP%E5%8D%8F%E8%AE%AE%2F</url>
+      <content type="text"><![CDATA[Go HTTP Redirect 的知识点总结http://colobu.com/2017/04/19/go-http-redirect/?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.ioHTTP 笔记（一）http://www.cnblogs.com/52fhy/p/6426569.html]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[关于Node.js]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/24/%E5%85%B3%E4%BA%8ENode-js/</url>
-      <content type="html"><![CDATA[<p><a href="https://cnodejs.org/topic/58eee565a92d341e48cfe7fc?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io" target="_blank" rel="external">2017，我们来聊聊 Node.js</a></p>
-]]></content>
-      
-        
+      <url>%2F2017%2F04%2F24%2F%E5%85%B3%E4%BA%8ENode-js%2F</url>
+      <content type="text"><![CDATA[2017，我们来聊聊 Node.js]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[面试经验]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/24/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C/</url>
-      <content type="html"><![CDATA[<h2 id="面试过程中提问什么"><a href="#面试过程中提问什么" class="headerlink" title="面试过程中提问什么"></a>面试过程中提问什么</h2><p>目前您的团队面临的最大挑战是什么？<br>公司和团队主要方向<br>团队的定位<br>员工的成长与晋升</p>
-<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><p><a href="http://www.jianshu.com/p/47d71eaeeccb?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io" target="_blank" rel="external">开发者面试指南</a></p>
-<blockquote>
-<p>面试过程中提问什么</p>
-</blockquote>
-]]></content>
-      
-        
+      <url>%2F2017%2F04%2F24%2F%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%2F</url>
+      <content type="text"><![CDATA[面试过程中提问什么目前您的团队面临的最大挑战是什么？公司和团队主要方向团队的定位员工的成长与晋升 参考资料开发者面试指南 面试过程中提问什么 求职网站拉勾网BOSS直聘前程无忧智联招聘中国海峡人才网猎聘网]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[PHP注意集锦]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/18/PHP%E6%B3%A8%E6%84%8F%E9%9B%86%E9%94%A6/</url>
-      <content type="html"><![CDATA[<ul>
-<li><p><a href="http://www.awaimai.com/2078.html" target="_blank" rel="external">为什么in_array(0, [‘a’, ‘b’, ‘c’])返回true</a></p>
-<blockquote>
-<p>在PHP中，数据会自动转换类型后再进行比较。</p>
-</blockquote>
-</li>
-<li><p><a href="http://blog.jobbole.com/109093/?utm_source=blog.jobbole.com&amp;utm_medium=relatedPosts" target="_blank" rel="external">PHP 命令行下的世界</a></p>
-</li>
-</ul>
-<p><a href="http://blog.jobbole.com/108673/?utm_source=blog.jobbole.com&amp;utm_medium=relatedPosts" target="_blank" rel="external">PHP7 中我们应该学习会用的新特性</a></p>
-]]></content>
-      
-        
+      <url>%2F2017%2F04%2F18%2FPHP%E6%B3%A8%E6%84%8F%E9%9B%86%E9%94%A6%2F</url>
+      <content type="text"><![CDATA[为什么in_array(0, [‘a’, ‘b’, ‘c’])返回true 在PHP中，数据会自动转换类型后再进行比较。 PHP 命令行下的世界 PHP7 中我们应该学习会用的新特性]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[如何提高收入]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/18/%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98%E6%94%B6%E5%85%A5/</url>
-      <content type="html"><![CDATA[<p><img src="http://jbcdn2.b0.upaiyun.com/2016/12/5316cb1517edcae40acbeaaf17578494.jpg" alt=""><br>时间对我们来说，是最公平的，每个人一天都只有24个小时，那么我们怎么用更少的时间换取更多的价值？其实时间可以从三个角度来换取更多的收入，那就是：</p>
-<h2 id="1-把每一份时间卖出得更贵"><a href="#1-把每一份时间卖出得更贵" class="headerlink" title="1.把每一份时间卖出得更贵"></a>1.把每一份时间卖出得更贵</h2><p>这也是我们最执着的一种做法。我们拼命地读书考大学，上完大学还要参加各种技能培训班，我们用N多技能来武装自己，不过是为了把自己卖出个好价钱。这种模式不是不好，但一般行业都有这个行业的天花板。</p>
-<p>比如，在iOS开发这条道路上，能走到技术金字塔顶端的人少之又少，到目前为止，也只有少量的人能称为技术大牛。比如猿题库的唐巧，滴滴的孙源，日本的喵神。我想更多的人可能是像我这样的，都是普通人。三年五年的经验达到熟练没问题，但是再往上呢？这个天花板你能突破上去吗？我想很多工作几年的人都有这种感触，工作年限上去了，但是技术上不去，职位上不去，没有任何机遇可言，如果我们只是继续拿着死工资，熬工龄，我们还能熬多久？</p>
-<p>对于技术或产品狗来说，一般年薪能到个五十万，基本也就到顶了。你想想你的每一分时间最多能卖出多少钱？卖出的价格到底还是有限的。</p>
-<p>那来看看第二点，时间还可以怎么卖？</p>
-<h2 id="2-把每一份时间卖出更多次"><a href="#2-把每一份时间卖出更多次" class="headerlink" title="2. 把每一份时间卖出更多次"></a>2. 把每一份时间卖出更多次</h2><p>这个怎么理解呢?比如作家郭敬明，他写一本小时代花了一整年的时间，但是他的书可以反复的出售，每多卖一本，他也不需要再付出更多时间了。那么他的一年时间就可以反复卖出多次。据说他的稿费都是以亿为单位的。</p>
-<p>再比如，我们熟知的公号。咪蒙提到的，她的公号一条广告卖到65万。而papi酱的公号的第一条广告，卖出了2200万的高价。这两个人的公号一篇的阅读量都在百万以上甚至更高。而一篇阅读量在一千左右的公号文，只能带来几百块的广告收入，这就是量的差距。他们写文和运营所用时间可能相差不大，但大号往往带来超高的收入。更多的阅读量，更多的人看你的文章也就意味着，你的时间卖出了更多次。</p>
-<p>第三种模式:</p>
-<h2 id="3-把每一份时间按比率卖出"><a href="#3-把每一份时间按比率卖出" class="headerlink" title="3. 把每一份时间按比率卖出"></a>3. 把每一份时间按比率卖出</h2><p>这个就是我们常说的，投资理财了。普通人去买基金股票p2p产品，通过本金带来收益，而厉害的投资人，通过投资一些创业阶段的公司，或做一些精准的投资，带来更高的收益。本质上来说，就是钱生钱。有一些p2p的产品可以达到10%左右的年化收益率，也就是你一万块，一年就可以挣到一千的利息。如果你有一百万，一年就可以挣到十万块。你的时间不再是一个值而是一种比率。这种情况下你的时间价值随着本金的上升而不断上升。</p>
-<p>这就是富人越来越富，穷人越来越穷的本质原因。富人靠着第二第三点，花更少的时间挣更多的钱，而穷人，贩卖越来越多的时间换取微薄的薪资。</p>
-]]></content>
-      
-        
+      <url>%2F2017%2F04%2F18%2F%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98%E6%94%B6%E5%85%A5%2F</url>
+      <content type="text"><![CDATA[时间对我们来说，是最公平的，每个人一天都只有24个小时，那么我们怎么用更少的时间换取更多的价值？其实时间可以从三个角度来换取更多的收入，那就是： 1.把每一份时间卖出得更贵这也是我们最执着的一种做法。我们拼命地读书考大学，上完大学还要参加各种技能培训班，我们用N多技能来武装自己，不过是为了把自己卖出个好价钱。这种模式不是不好，但一般行业都有这个行业的天花板。 比如，在iOS开发这条道路上，能走到技术金字塔顶端的人少之又少，到目前为止，也只有少量的人能称为技术大牛。比如猿题库的唐巧，滴滴的孙源，日本的喵神。我想更多的人可能是像我这样的，都是普通人。三年五年的经验达到熟练没问题，但是再往上呢？这个天花板你能突破上去吗？我想很多工作几年的人都有这种感触，工作年限上去了，但是技术上不去，职位上不去，没有任何机遇可言，如果我们只是继续拿着死工资，熬工龄，我们还能熬多久？ 对于技术或产品狗来说，一般年薪能到个五十万，基本也就到顶了。你想想你的每一分时间最多能卖出多少钱？卖出的价格到底还是有限的。 那来看看第二点，时间还可以怎么卖？ 2. 把每一份时间卖出更多次这个怎么理解呢?比如作家郭敬明，他写一本小时代花了一整年的时间，但是他的书可以反复的出售，每多卖一本，他也不需要再付出更多时间了。那么他的一年时间就可以反复卖出多次。据说他的稿费都是以亿为单位的。 再比如，我们熟知的公号。咪蒙提到的，她的公号一条广告卖到65万。而papi酱的公号的第一条广告，卖出了2200万的高价。这两个人的公号一篇的阅读量都在百万以上甚至更高。而一篇阅读量在一千左右的公号文，只能带来几百块的广告收入，这就是量的差距。他们写文和运营所用时间可能相差不大，但大号往往带来超高的收入。更多的阅读量，更多的人看你的文章也就意味着，你的时间卖出了更多次。 第三种模式: 3. 把每一份时间按比率卖出这个就是我们常说的，投资理财了。普通人去买基金股票p2p产品，通过本金带来收益，而厉害的投资人，通过投资一些创业阶段的公司，或做一些精准的投资，带来更高的收益。本质上来说，就是钱生钱。有一些p2p的产品可以达到10%左右的年化收益率，也就是你一万块，一年就可以挣到一千的利息。如果你有一百万，一年就可以挣到十万块。你的时间不再是一个值而是一种比率。这种情况下你的时间价值随着本金的上升而不断上升。 这就是富人越来越富，穷人越来越穷的本质原因。富人靠着第二第三点，花更少的时间挣更多的钱，而穷人，贩卖越来越多的时间换取微薄的薪资。]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[vim学习笔记]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/16/vim%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
-      <content type="html"><![CDATA[<p>vim编辑器的三种模式：一般模式、编辑模式和命令行模式。</p>
-<p>在一般模式中可以进行删除、复制和粘贴的功能，但是无法编辑文件内容。从一般模式切换到编辑模式可以按下i、I、o、O、a、A、r、R键。按下Esc键可以回到一般模式。在一般模式中输入：、/、？三个中的任意一个可以将光标移到最下面的一行。在这个模式中可以提供查找数据的操作，而读取、保存、大量替换字符、离开vii、显示行号等操作则是在此模式中完成的。需要注意的是，编辑模式与命令行模式之间是不能互相切换的。</p>
-<h1 id="快捷键"><a href="#快捷键" class="headerlink" title="快捷键"></a>快捷键</h1><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><h1 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h1><h1 id="参考文档"><a href="#参考文档" class="headerlink" title="参考文档"></a>参考文档</h1><p><a href="http://harttle.com/2013/11/08/vim-config.html" target="_blank" rel="external">Vim初级：配置和使用 </a><br><a href="http://harttle.com/2015/11/04/vim-ide.html" target="_blank" rel="external">如何用Vim搭建IDE？ </a><br><a href="http://vimcdoc.sourceforge.net/doc/" target="_blank" rel="external"></a><br><a href="http://os.51cto.com/art/201507/484174.htm" target="_blank" rel="external">Vundle：你必须了解的Linux Vim插件管理工具</a></p>
-<p><a href="http://blog.csdn.net/xiajun07061225/article/details/7039413" target="_blank" rel="external">【Linux入门学习之】vi/vim编辑器必知必会</a></p>
-]]></content>
-      
-        
+      <url>%2F2017%2F04%2F16%2Fvim%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%2F</url>
+      <content type="text"><![CDATA[vim编辑器的三种模式：一般模式、编辑模式和命令行模式。 在一般模式中可以进行删除、复制和粘贴的功能，但是无法编辑文件内容。从一般模式切换到编辑模式可以按下i、I、o、O、a、A、r、R键。按下Esc键可以回到一般模式。在一般模式中输入：、/、？三个中的任意一个可以将光标移到最下面的一行。在这个模式中可以提供查找数据的操作，而读取、保存、大量替换字符、离开vii、显示行号等操作则是在此模式中完成的。需要注意的是，编辑模式与命令行模式之间是不能互相切换的。 快捷键配置插件参考文档Vim初级：配置和使用 如何用Vim搭建IDE？ Vundle：你必须了解的Linux Vim插件管理工具 【Linux入门学习之】vi/vim编辑器必知必会]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[PHP学习相关资料]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/09/PHP%E5%AD%A6%E4%B9%A0%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99/</url>
-      <content type="html"><![CDATA[<ul>
-<li><a href="codeguy/php-the-right-way">PHP之道</a><br><a href="http://laravel-china.github.io/php-the-right-way/" target="_blank" rel="external">http://laravel-china.github.io/php-the-right-way/</a><br><a href="http://phpbestpractices.justjavac.com/PHP" target="_blank" rel="external">http://phpbestpractices.justjavac.com/PHP</a> 最佳实践</li>
-</ul>
-<p> PHP Closure类详解</p>
-<h3 id="SPL"><a href="#SPL" class="headerlink" title="SPL"></a>SPL</h3><blockquote>
-<p>SPL 全称是  Standard PHP Library<br>手册  <a href="http://cn.php.net/manual/en/book.spl.php" target="_blank" rel="external">PHP: SPL - Manual</a></p>
-<ul>
-<li><a href="http://www.ruanyifeng.com/blog/2008/07/php_spl_notes.html" target="_blank" rel="external">PHP SPL 笔记</a><br><a href="http://www.cnblogs.com/yafang/p/5872187.html" target="_blank" rel="external">PHP SPL（PHP 标准库）</a><br><a href="http://www.imooc.com/learn/150" target="_blank" rel="external">站在巨人的肩膀上写代码—SPL</a></li>
-</ul>
-</blockquote>
-]]></content>
-      
-        
+      <url>%2F2017%2F04%2F09%2FPHP%E5%AD%A6%E4%B9%A0%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99%2F</url>
+      <content type="text"><![CDATA[PHP之道http://laravel-china.github.io/php-the-right-way/http://phpbestpractices.justjavac.com/PHP 最佳实践 PHP Closure类详解 SPL SPL 全称是 Standard PHP Library手册 PHP: SPL - Manual PHP SPL 笔记PHP SPL（PHP 标准库）站在巨人的肩膀上写代码—SPL]]></content>
     </entry>
+
     
     <entry>
-      <title><![CDATA[Laravel框架学习笔记 ]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/09/Laravel%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
-      <content type="html"><![CDATA[<ul>
-<li><a href="https://segmentfault.com/p/1210000008920007/read" target="_blank" rel="external">laravel 神奇的服务容器</a></li>
-</ul>
-<p><a href="https://laravel.com" target="_blank" rel="external">Laravel官网</a><br><a href="http://laravelacademy.org" target="_blank" rel="external">Laravel学院</a><br><a href="https://laravel-china.org" target="_blank" rel="external">Laravel China 社区</a><br><a href="http://www.golaravel.com" target="_blank" rel="external">Laravel 中文网</a></p>
-<p><a href="https://www.laravist.com" target="_blank" rel="external">Laravel视频教程</a></p>
-<p>Laravel 完整开源项目大全<a href="http://laravelacademy.org/laravel-project" target="_blank" rel="external">http://laravelacademy.org/laravel-project</a></p>
-]]></content>
-      
-        
+      <title><![CDATA[Laravel框架学习笔记]]></title>
+      <url>%2F2017%2F04%2F09%2FLaravel%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%2F</url>
+      <content type="text"><![CDATA[laravel 神奇的服务容器 Laravel官网Laravel学院Laravel China 社区Laravel 中文网 Laravel视频教程 Laravel 完整开源项目大全http://laravelacademy.org/laravel-project]]></content>
     </entry>
+
     
     <entry>
-      <title><![CDATA[YII框架学习笔记 ]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/09/YII%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
-      <content type="html"><![CDATA[<blockquote>
-<p>2.0.11 版发布于 2017年02月01日 • 1.1.17 版发布于 2016年01月13日</p>
-</blockquote>
-<h1 id="学习计划"><a href="#学习计划" class="headerlink" title="学习计划"></a>学习计划</h1><p>1、通过视频学习操作并做好记录</p>
-<h1 id="入门"><a href="#入门" class="headerlink" title="入门"></a>入门</h1><h1 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h1><p><a href="http://www.yiichina.com/video" target="_blank" rel="external">魏曦教你学 - Yii2.0 视频教程</a></p>
-<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><p><a href="http://www.yiiframework.com" target="_blank" rel="external">Yii英文官网</a><br><a href="http://www.yiichina.com" target="_blank" rel="external">Yii Framework中文网</a><br><a href="http://www.yii-china.com" target="_blank" rel="external">Yii中文网</a></p>
-<h1 id="开源项目"><a href="#开源项目" class="headerlink" title="开源项目"></a>开源项目</h1><p><a href="http://www.yiifcms.com" target="_blank" rel="external">YIIFCMS</a></p>
-<blockquote>
-<p>yiifcms是基于yii框架开发的内容管理系统(CMS)，功能强大，运行高效，稳定安全，是学习php和建站的良好选择。</p>
-</blockquote>
-]]></content>
-      
-        
-        <tags>
-            
-            <tag> PHP </tag>
-            
-            <tag> 框架 </tag>
-            
-            <tag> Yii </tag>
-            
-        </tags>
-        
+      <title><![CDATA[YII框架学习笔记]]></title>
+      <url>%2F2017%2F04%2F09%2FYII%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%2F</url>
+      <content type="text"><![CDATA[2.0.11 版发布于 2017年02月01日 • 1.1.17 版发布于 2016年01月13日 学习计划1、通过视频学习操作并做好记录 入门视频教程魏曦教你学 - Yii2.0 视频教程 参考资料Yii英文官网Yii Framework中文网Yii中文网 开源项目YIIFCMS yiifcms是基于yii框架开发的内容管理系统(CMS)，功能强大，运行高效，稳定安全，是学习php和建站的良好选择。]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[自定义使用Sublime Text 3]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/09/%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BD%BF%E7%94%A8Sublime-Text-3/</url>
-      <content type="html"><![CDATA[<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><p><a href="http://jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/#eight" target="_blank" rel="external">如何优雅地使用Sublime Text3</a></p>
-]]></content>
-      
-        
+      <url>%2F2017%2F04%2F09%2F%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BD%BF%E7%94%A8Sublime-Text-3%2F</url>
+      <content type="text"><![CDATA[参考资料如何优雅地使用Sublime Text3]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[tmux：终端复用利器]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/05/tmux%EF%BC%9A%E7%BB%88%E7%AB%AF%E5%A4%8D%E7%94%A8%E5%88%A9%E5%99%A8/</url>
-      <content type="html"><![CDATA[<p><a href="https://leehao.me/tmux：终端复用利器/?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io" target="_blank" rel="external">tmux：终端复用利器</a></p>
-<p><a href="http://harttle.com/2015/11/06/tmux-startup.html" target="_blank" rel="external">优雅地使用命令行：Tmux 终端复用 </a></p>
-<p>为什么使用 tmux <a href="http://www.cnblogs.com/itech/archive/2012/12/17/2822170.html" target="_blank" rel="external">http://www.cnblogs.com/itech/archive/2012/12/17/2822170.html</a></p>
-<h1 id="常用命令使用"><a href="#常用命令使用" class="headerlink" title="常用命令使用"></a>常用命令使用</h1><h1 id="原理理解"><a href="#原理理解" class="headerlink" title="原理理解"></a>原理理解</h1><h1 id="修改配置"><a href="#修改配置" class="headerlink" title="修改配置"></a>修改配置</h1>]]></content>
-      
-        
+      <url>%2F2017%2F04%2F05%2Ftmux%EF%BC%9A%E7%BB%88%E7%AB%AF%E5%A4%8D%E7%94%A8%E5%88%A9%E5%99%A8%2F</url>
+      <content type="text"><![CDATA[tmux：终端复用利器 优雅地使用命令行：Tmux 终端复用 为什么使用 tmux http://www.cnblogs.com/itech/archive/2012/12/17/2822170.html 常用命令使用原理理解修改配置]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[PHP依赖注入学习笔记]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/04/PHP%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
-      <content type="html"><![CDATA[<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ul>
-<li><p><a href="http://www.cnblogs.com/liuhaorain/p/3747470.html" target="_blank" rel="external">深入理解DIP、IoC、DI以及IoC容器</a></p>
-</li>
-<li><p><a href="https://segmentfault.com/a/1190000002424023" target="_blank" rel="external">PHP程序员如何理解依赖注入容器(dependency injection container)</a></p>
-</li>
-<li><p><a href="https://segmentfault.com/a/1190000007209266" target="_blank" rel="external">聊一聊PHP的依赖注入(DI) 和 控制反转(IoC)</a></p>
-</li>
-<li><p><a href="https://segmentfault.com/p/1210000008920007/read" target="_blank" rel="external">laravel 神奇的服务容器</a></p>
-</li>
-</ul>
-]]></content>
-      
-        
+      <url>%2F2017%2F04%2F04%2FPHP%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%2F</url>
+      <content type="text"><![CDATA[参考资料 深入理解DIP、IoC、DI以及IoC容器 PHP程序员如何理解依赖注入容器(dependency injection container) 聊一聊PHP的依赖注入(DI) 和 控制反转(IoC) laravel 神奇的服务容器]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[创建一个自己的【Composer/Packagist】包]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/04/%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E3%80%90Composer-Packagist%E3%80%91%E5%8C%85/</url>
-      <content type="html"><![CDATA[<p>创建【Composer/Packagist】包有有以下几个步骤：</p>
-<ul>
-<li>初始化composer.json文件</li>
-<li>定义命名空间及包名</li>
-<li>实现包需要实现的功能</li>
-<li>提交到 GitHub</li>
-<li>在Packagist注册包</li>
-</ul>
-<h1 id="TodoList"><a href="#TodoList" class="headerlink" title="TodoList"></a>TodoList</h1><blockquote>
-<p>还有很多需要做的，我也只是在学习，学的越多，发现需要学的越多</p>
-<ul>
-<li>代码优化</li>
-<li>包加载调用库</li>
-</ul>
-</blockquote>
-<h1 id="学习到到内容"><a href="#学习到到内容" class="headerlink" title="学习到到内容"></a>学习到到内容</h1><ul>
-<li>开发包测试</li>
-<li>命名空间</li>
-<li>composer自动加载</li>
-<li>github中hook自动更新</li>
-</ul>
-<h1 id="项目地址"><a href="#项目地址" class="headerlink" title="项目地址"></a>项目地址</h1><ul>
-<li><a href="https://github.com/chenlianjiang/composer-test" target="_blank" rel="external">GitHub地址</a></li>
-</ul>
-<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ul>
-<li><a href="https://segmentfault.com/n/1330000006227425" target="_blank" rel="external">如何创建一个自己的【Composer/Packagist】包</a></li>
-<li><a href="http://blog.jayxhj.com/2016/05/basic-composer-package-development/?utm_source=tuicool&amp;utm_medium=referral" target="_blank" rel="external">动手开发自己的第一个 composer 包</a></li>
-<li><a href="http://www.huyanping.cn/composer%e4%b9%8b%e5%88%9b%e5%bb%ba%e8%87%aa%e5%b7%b1%e7%9a%84%e5%8c%85/" target="_blank" rel="external">composer之创建自己的包</a></li>
-<li><a href="http://www.w2bc.com/article/223309" target="_blank" rel="external">通过 Composer Github Packagist制作发布共享PHP包</a></li>
-</ul>
-]]></content>
-      
-        
+      <url>%2F2017%2F04%2F04%2F%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E3%80%90Composer-Packagist%E3%80%91%E5%8C%85%2F</url>
+      <content type="text"><![CDATA[创建【Composer/Packagist】包有有以下几个步骤： 初始化composer.json文件 定义命名空间及包名 实现包需要实现的功能 提交到 GitHub 在Packagist注册包 TodoList 还有很多需要做的，我也只是在学习，学的越多，发现需要学的越多 代码优化 包加载调用库 学习到到内容 开发包测试 命名空间 composer自动加载 github中hook自动更新 项目地址 GitHub地址 参考资料 如何创建一个自己的【Composer/Packagist】包 动手开发自己的第一个 composer 包 composer之创建自己的包 通过 Composer Github Packagist制作发布共享PHP包]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[Git常用操作记录]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/04/Git%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C%E8%AE%B0%E5%BD%95/</url>
-      <content type="html"><![CDATA[<h1 id="常用操作命令"><a href="#常用操作命令" class="headerlink" title="常用操作命令"></a>常用操作命令</h1><h2 id="Tag管理"><a href="#Tag管理" class="headerlink" title="Tag管理"></a>Tag管理</h2><h3 id="本地标签（tag）管理"><a href="#本地标签（tag）管理" class="headerlink" title="本地标签（tag）管理"></a>本地标签（tag）管理</h3><ul>
-<li><p>打个标签（Tag），表示这是个可靠的可发布版本，默认的标签将打在最新的commit上。</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git tag -a v1.0 -m &quot;第一个里程碑的突破&quot;</div></pre></td></tr></table></figure>
-</li>
-<li><p>查看打了哪些标签使用</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git tag</div></pre></td></tr></table></figure>
-</li>
-<li><p>查看某个标签的信息用</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git show v1.0</div></pre></td></tr></table></figure>
-</li>
-<li><p>删除标签</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git tag -d v1.0</div></pre></td></tr></table></figure>
-</li>
-</ul>
-<h3 id="远程标签管理"><a href="#远程标签管理" class="headerlink" title="远程标签管理"></a>远程标签管理</h3><p>把v1.0推送到远程，<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git push origin v1.0</div></pre></td></tr></table></figure></p>
-<p>把所有的标签一次推送到远程更爽，<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git push origin --tags</div></pre></td></tr></table></figure></p>
-<p>删除远程的标签，你可以到github上删除，也可以，</p>
-<p>先删除本地的<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git tag -d v1.0</div></pre></td></tr></table></figure></p>
-<p>删除远程的<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git push origin :refs/tags/v1.0</div></pre></td></tr></table></figure></p>
-<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><ul>
-<li><a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000" target="_blank" rel="external">廖雪峰Git教程</a></li>
-</ul>
-<h2 id="博文"><a href="#博文" class="headerlink" title="博文"></a>博文</h2><ul>
-<li><a href="http://blog.csdn.net/xiahouzuoxin/article/details/23140727" target="_blank" rel="external"> Git的版本和分支管理 </a></li>
-</ul>
-]]></content>
-      
-        
-        <tags>
-            
-            <tag> Git </tag>
-            
-        </tags>
-        
+      <url>%2F2017%2F04%2F04%2FGit%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C%E8%AE%B0%E5%BD%95%2F</url>
+      <content type="text"><![CDATA[常用操作命令Tag管理本地标签（tag）管理 打个标签（Tag），表示这是个可靠的可发布版本，默认的标签将打在最新的commit上。 1git tag -a v1.0 -m &quot;第一个里程碑的突破&quot; 查看打了哪些标签使用 1git tag 查看某个标签的信息用 1git show v1.0 删除标签 1git tag -d v1.0 远程标签管理把v1.0推送到远程，1git push origin v1.0 把所有的标签一次推送到远程更爽，1git push origin --tags 删除远程的标签，你可以到github上删除，也可以， 先删除本地的1git tag -d v1.0 删除远程的1git push origin :refs/tags/v1.0 参考资料教程 廖雪峰Git教程 博文 Git的版本和分支管理]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[Composer学习笔记]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/04/Composer%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
-      <content type="html"><![CDATA[<ul>
-<li>Composer 将这样为你解决问题：</li>
-</ul>
-<p>a) 你有一个项目依赖于若干个库。</p>
-<p>b) 其中一些库依赖于其他库。</p>
-<p>c) 你声明你所依赖的东西。</p>
-<p>d) Composer 会找出哪个版本的包需要安装，并安装它们（将它们下载到你的项目中）。</p>
-<h1 id="参考网站"><a href="#参考网站" class="headerlink" title="参考网站"></a>参考网站</h1><ul>
-<li><a href="http://www.phpcomposer.com/" target="_blank" rel="external">Composer 中文网站</a></li>
-<li><a href="https://packagist.org/" target="_blank" rel="external">Composer Hub 地址</a></li>
-<li><a href="https://getcomposer.org/" target="_blank" rel="external">Composer 官网</a></li>
-<li><a href="https://laravel-china.org/topics/1002/deep-composer-autoload" target="_blank" rel="external">深入 Composer autoload </a></li>
-<li><p><a href="https://segmentfault.com/a/1190000007397865" target="_blank" rel="external">你所不知道的 PHP - 自动加载</a></p>
-</li>
-<li><p><a href="https://lvwenhan.com/php/405.html" target="_blank" rel="external">利用 Composer 一步一步构建自己的 PHP 框架</a></p>
-</li>
-</ul>
-<ul>
-<li><p><a href="https://my.oschina.net/1pei/blog/485099" target="_blank" rel="external">FIG-PHP PSR规范系列4-自动加载</a></p>
-</li>
-<li><p><a href="http://www.cnblogs.com/52php/p/5852572.html" target="_blank" rel="external">PHP中PSR-[0-4]代码规范</a></p>
-</li>
-</ul>
-<p>PHP 标准规范<a href="https://psr.phphub.org/" target="_blank" rel="external">https://psr.phphub.org/</a></p>
-<h1 id="TodoList"><a href="#TodoList" class="headerlink" title="TodoList"></a>TodoList</h1><ul>
-<li>通过文档学习使用</li>
-<li>创建自己的仓库并安装使用</li>
-<li>熟悉composer操作全过程以及相关参数</li>
-<li>常见问题搜集</li>
-</ul>
-]]></content>
-      
-        
-        <tags>
-            
-            <tag> PHP </tag>
-            
-            <tag> Composer </tag>
-            
-        </tags>
-        
+      <url>%2F2017%2F04%2F04%2FComposer%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%2F</url>
+      <content type="text"><![CDATA[Composer 将这样为你解决问题： a) 你有一个项目依赖于若干个库。 b) 其中一些库依赖于其他库。 c) 你声明你所依赖的东西。 d) Composer 会找出哪个版本的包需要安装，并安装它们（将它们下载到你的项目中）。 参考网站 Composer 中文网站 Composer Hub 地址 Composer 官网 深入 Composer autoload 你所不知道的 PHP - 自动加载 利用 Composer 一步一步构建自己的 PHP 框架 FIG-PHP PSR规范系列4-自动加载 PHP中PSR-[0-4]代码规范 PHP 标准规范https://psr.phphub.org/ TodoList 通过文档学习使用 创建自己的仓库并安装使用 熟悉composer操作全过程以及相关参数 常见问题搜集]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[Mac上常用工具]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/01/Mac%E4%B8%8A%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/</url>
-      <content type="html"><![CDATA[<blockquote>
-<pre><code>「工欲善其事，必先利其器」
-</code></pre></blockquote>
-<p><a href="https://zhuanlan.zhihu.com/MacTips" target="_blank" rel="external">MacTips</a></p>
-<h1 id="Mac-窗口管理器"><a href="#Mac-窗口管理器" class="headerlink" title="Mac 窗口管理器"></a>Mac 窗口管理器</h1><blockquote>
-<p>目前使用SizeUp</p>
-</blockquote>
-<ul>
-<li><a href="http://www.macx.cn/thread-2152214-1-1.html" target="_blank" rel="external">窗口管理神器 SizeUp 试用：快捷键完成各种窗口变换</a></li>
-<li><a href="https://sspai.com/post/32222" target="_blank" rel="external">解放鼠标，用 SizeUp 快捷管理你的窗口</a></li>
-<li><a href="http://www.ifanr.com/app/699275" target="_blank" rel="external">7 款 Mac 窗口管理利器推荐，任务再多也不乱</a></li>
-</ul>
-<h1 id="Mac-浏览器"><a href="#Mac-浏览器" class="headerlink" title="Mac 浏览器"></a>Mac 浏览器</h1><p><a href="http://www.ifanr.com/app/782721" target="_blank" rel="external">省电又流畅，电脑浏览器我只选 Safari | 有用功</a></p>
-<h1 id="Mac-壁纸"><a href="#Mac-壁纸" class="headerlink" title="Mac 壁纸"></a>Mac 壁纸</h1><p><a href="http://www.ifanr.com/app/679572" target="_blank" rel="external">最好的 Mac 壁纸应用，可能都在这里了</a></p>
-]]></content>
-      
-        
+      <url>%2F2017%2F04%2F01%2FMac%E4%B8%8A%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%2F</url>
+      <content type="text"><![CDATA[「工欲善其事，必先利其器」 MacTips Mac 窗口管理器 目前使用SizeUp 窗口管理神器 SizeUp 试用：快捷键完成各种窗口变换 解放鼠标，用 SizeUp 快捷管理你的窗口 7 款 Mac 窗口管理利器推荐，任务再多也不乱 Mac 浏览器省电又流畅，电脑浏览器我只选 Safari | 有用功 Mac 壁纸最好的 Mac 壁纸应用，可能都在这里了]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[Mac上Homebrew的使用]]></title>
-      <url>http://chenlianjiang.github.io/2017/04/01/Mac%E4%B8%8Abrew%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
-      <content type="html"><![CDATA[<blockquote>
-<p>Homebrew又叫brew，是Mac OSX上的软件包管理工具，能在Mac中方便的安装软件或者卸载软件， 只需要一个命令， 非常方便brew类似ubuntu系统下的apt-get的功能。<a href="https://brew.sh/" target="_blank" rel="external">Homebrew官网</a>（多语言版本）简单明了地介绍了如何安装和使用这个工具，并提供了自己的Wiki。</p>
-</blockquote>
-<h1 id="Homebrew的使用"><a href="#Homebrew的使用" class="headerlink" title="Homebrew的使用"></a>Homebrew的使用</h1><h3 id="安装Homebrew"><a href="#安装Homebrew" class="headerlink" title="安装Homebrew"></a>安装Homebrew</h3><p>在Mac中打开终端输入命令：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">/usr/bin/ruby -e &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;</div></pre></td></tr></table></figure></p>
-<h3 id="使用Homebrew安装软件"><a href="#使用Homebrew安装软件" class="headerlink" title="使用Homebrew安装软件"></a>使用Homebrew安装软件</h3><p>当brew安装成功后，就可以随意安装自己想要的软件了，例如wget，命令如下：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">brew install wget</div></pre></td></tr></table></figure></p>
-<p>实际上，Homebrew将软件包分装到单独的目录（/usr/local/Cellar），然后 symlink 到 /usr/local/bin中。 </p>
-<h3 id="使用brew卸载软件"><a href="#使用brew卸载软件" class="headerlink" title="使用brew卸载软件"></a>使用brew卸载软件</h3><p>卸载的话，命令如下：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">brew uninstall wget</div></pre></td></tr></table></figure></p>
-<h3 id="使用brew搜索软件"><a href="#使用brew搜索软件" class="headerlink" title="使用brew搜索软件"></a>使用brew搜索软件</h3><p>有时候，你不知道你安装的软件的名字， 那么你需要先搜索下, 查到包的名字。<br>比如我要安装：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">brew search /wge*/</div></pre></td></tr></table></figure></p>
-<p>/wge*/是个正则表达式， 需要包含在/中</p>
-<h3 id="其他brew命令"><a href="#其他brew命令" class="headerlink" title="其他brew命令"></a>其他brew命令</h3><table>
-<thead>
-<tr>
-<th>命令</th>
-<th>描述</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>brew list</td>
-<td>列出已安装的软件</td>
-</tr>
-<tr>
-<td>brew update</td>
-<td>更新brew</td>
-</tr>
-<tr>
-<td>brew home</td>
-<td>用浏览器打开brew的官方网站</td>
-</tr>
-<tr>
-<td>brew info</td>
-<td>显示软件信息</td>
-</tr>
-<tr>
-<td>brew deps</td>
-<td>显示包依赖</td>
-</tr>
-</tbody>
-</table>
-<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ul>
-<li><a href="http://blog.sina.com.cn/s/blog_8e5d24890102w09f.html" target="_blank" rel="external">Mac上brew的使用 (Homebrew 使 OS X 更完整) </a></li>
-<li><a href="http://blog.csdn.net/aaawqqq/article/details/44088141" target="_blank" rel="external">mac安装brew 软件包管理工具Homebrew</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/22598799" target="_blank" rel="external">Homebrew总结</a></li>
-<li><a href="http://icyleaf.com/2014/01/homebrew-hidden-commands/" target="_blank" rel="external">Homebrew 隐藏命令</a></li>
-<li><a href="http://www.cnblogs.com/TankXiao/p/3247113.html" target="_blank" rel="external">Mac入门（三）使用brew安装软件</a></li>
-</ul>
-]]></content>
-      
-        
-        <tags>
-            
-            <tag> Mac </tag>
-            
-            <tag> Homebrew </tag>
-            
-        </tags>
-        
+      <url>%2F2017%2F04%2F01%2FMac%E4%B8%8Abrew%E7%9A%84%E4%BD%BF%E7%94%A8%2F</url>
+      <content type="text"><![CDATA[Homebrew又叫brew，是Mac OSX上的软件包管理工具，能在Mac中方便的安装软件或者卸载软件， 只需要一个命令， 非常方便brew类似ubuntu系统下的apt-get的功能。Homebrew官网（多语言版本）简单明了地介绍了如何安装和使用这个工具，并提供了自己的Wiki。 Homebrew的使用安装Homebrew在Mac中打开终端输入命令：1/usr/bin/ruby -e &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&quot; 使用Homebrew安装软件当brew安装成功后，就可以随意安装自己想要的软件了，例如wget，命令如下：1brew install wget 实际上，Homebrew将软件包分装到单独的目录（/usr/local/Cellar），然后 symlink 到 /usr/local/bin中。 使用brew卸载软件卸载的话，命令如下：1brew uninstall wget 使用brew搜索软件有时候，你不知道你安装的软件的名字， 那么你需要先搜索下, 查到包的名字。比如我要安装：1brew search /wge*/ /wge*/是个正则表达式， 需要包含在/中 其他brew命令 命令 描述 brew list 列出已安装的软件 brew update 更新brew brew home 用浏览器打开brew的官方网站 brew info 显示软件信息 brew deps 显示包依赖 参考资料 Mac上brew的使用 (Homebrew 使 OS X 更完整) mac安装brew 软件包管理工具Homebrew Homebrew总结 Homebrew 隐藏命令 Mac入门（三）使用brew安装软件]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[优雅使用jQuery]]></title>
-      <url>http://chenlianjiang.github.io/2017/03/29/%E4%BC%98%E9%9B%85%E4%BD%BF%E7%94%A8jQuery/</url>
-      <content type="html"><![CDATA[<blockquote>
-<p>结合《锋利的jQuery》学习，记录属于自己的知识。jQuery是一个轻量级的库，拥有强大的选择器，出色的DOM操作，可靠的事件处理、完善的兼容性和链式操作等功能。</p>
-</blockquote>
-<h2 id="jQuery代码编写入门"><a href="#jQuery代码编写入门" class="headerlink" title="jQuery代码编写入门"></a>jQuery代码编写入门</h2><ul>
-<li><p>获取<a href="http://jquery.com" target="_blank" rel="external">jQuery</a>通过官网获取</p>
-</li>
-<li><p>编写简单的jQuery代码</p>
-</li>
-</ul>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div></pre></td><td class="code"><pre><div class="line">&lt;!DOCTYPE html&gt;</div><div class="line">&lt;html lang=&quot;en&quot;&gt;</div><div class="line">&lt;head&gt;</div><div class="line">    &lt;meta charset=&quot;UTF-8&quot;&gt;</div><div class="line">    &lt;title&gt;jQuery01&lt;/title&gt;</div><div class="line">&lt;/head&gt;</div><div class="line">&lt;body&gt;</div><div class="line"></div><div class="line">&lt;/body&gt;</div><div class="line">&lt;script src=&quot;//cdn.bootcss.com/jquery/1.7.1/jquery.min.js&quot;&gt;&lt;/script&gt;</div><div class="line">&lt;script&gt;</div><div class="line">    $(document).ready(function() &#123;</div><div class="line">        alert(&quot;Hello World&quot;);</div><div class="line">    &#125;);</div><div class="line">    $(function() &#123;      </div><div class="line">        alert(&apos;tess&apos;);</div><div class="line">    &#125;)</div><div class="line">    $(document).ready(function () &#123;</div><div class="line"></div><div class="line">    &#125;);</div><div class="line">&lt;/script&gt;</div><div class="line">&lt;/html&gt;</div></pre></td></tr></table></figure>
-<blockquote>
-<p>window.onload和$(document).ready()的对比</p>
-</blockquote>
-<ul>
-<li><p>jQuery对象和DOM对象</p>
-<p>  1、DOM(Document Object Model, 文档对象模型)，DOM对象可以使用JavaScript中的方法：</p>
-</li>
-</ul>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">var domObject = document.getElementById(&quot;id&quot;);</div><div class="line">var objHtml = domObj.innerHTML;</div></pre></td></tr></table></figure>
-<pre><code>2、jQuery 对象就是通过jQuery包装DOM对象后产生的对象，jQuery 对象是jQuery 独有的。
-
-3、jQuery对象和DOM对象的相互转换
-</code></pre><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">var $variable = jQuery对象；</div><div class="line"></div><div class="line">var variable = DOM对象；</div></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">//jQuery对象-&gt;DOM对象</div><div class="line">var $cr = $(&quot;#cr&quot;);</div><div class="line">var cr = $cr[0];</div><div class="line">var cr = $cr.get(0);</div><div class="line">//jQuery对象&lt;-DOM对象</div><div class="line">var cr = document.getElementById(&quot;cr&quot;);</div><div class="line">var $cr = $(cr);</div></pre></td></tr></table></figure>
-<ul>
-<li><p>解决jQuery 和其他库的冲突</p>
-<p>  1、jQuery在其他库加载之后导入，可以在任何时候调用jQuery.noConflict()函数将变量$的控制权移交给其他JavaScript库。</p>
-<p>  2、自定义一个快捷方式</p>
-  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">var $j = jQuery.noConflict();</div></pre></td></tr></table></figure>
-<p>  3、将变量$的控制权让渡给prototype.js</p>
-  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">jQuery.noConflict();</div><div class="line">jQuery(function($)&#123;                 //使用jQuery</div><div class="line">    $(&quot;p&quot;).click(function()&#123;        //继续使用 $ 方法</div><div class="line">        alert( $(this).text() );</div><div class="line">    &#125;);</div><div class="line">&#125;);</div></pre></td></tr></table></figure>
-<p>  4、执行匿名函数且传递实参jQuery</p>
-  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">jQuery.noConflict();                //将变量$的控制权让渡给prototype.js</div><div class="line">(function($)&#123;                       //定义匿名函数并设置形参为$</div><div class="line">    $(function()&#123;                   //匿名函数内部的$均为jQuery</div><div class="line">        $(&quot;p&quot;).click(function()&#123;    //继续使用 $ 方法</div><div class="line">            alert($(this).text());</div><div class="line">        &#125;);</div><div class="line">    &#125;);</div><div class="line">&#125;)(jQuery);                         //执行匿名函数且传递实参jQuery</div></pre></td></tr></table></figure>
-</li>
-</ul>
-<h2 id="jQuery选择器"><a href="#jQuery选择器" class="headerlink" title="jQuery选择器"></a>jQuery选择器</h2><blockquote>
-<p>在jQuery中，对事件处理、遍历DOM和Ajax 操作都依赖于选择器。<br>jQuery 选择器分为基本选择器，层次选择器、过滤选择器、表单选择器；</p>
-</blockquote>
-<h3 id="基本选择器"><a href="#基本选择器" class="headerlink" title="基本选择器"></a>基本选择器</h3><table>
-<thead>
-<tr>
-<th>选择器</th>
-<th>描述</th>
-<th>返回</th>
-<th>示例</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>#id</td>
-<td>匹配给定的id</td>
-<td>单个元素</td>
-<td>$(“header”)</td>
-</tr>
-<tr>
-<td>.class</td>
-<td>匹配给定的类名</td>
-<td>集合元素</td>
-<td>$(“.test”)</td>
-</tr>
-<tr>
-<td>E</td>
-<td>匹配给定的标签名</td>
-<td>集合元素</td>
-<td>$(“div”)</td>
-</tr>
-<tr>
-<td>*</td>
-<td>匹配所有元素</td>
-<td>集合元素</td>
-<td>$(“*’)</td>
-</tr>
-<tr>
-<td>E, .class, E…</td>
-<td>匹配给定的集合</td>
-<td>集合元素</td>
-<td>$(“span, .tips”)</td>
-</tr>
-</tbody>
-</table>
-<h3 id="层次选择器"><a href="#层次选择器" class="headerlink" title="层次选择器"></a>层次选择器</h3><table>
-<thead>
-<tr>
-<th>选择器</th>
-<th>描述</th>
-<th>返回</th>
-<th>示例</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>$(“ancestor descendant”)</td>
-<td>匹配 ancestor 里的所有descendant(后代)元素</td>
-<td>集合元素</td>
-<td>$(“body div”)</td>
-</tr>
-<tr>
-<td>$(“parent&gt;child”)</td>
-<td>匹配 parent 下的所有child(子) 元素</td>
-<td>集合元素</td>
-<td>$(“div&gt;span”)</td>
-</tr>
-<tr>
-<td>$(“prev+next”)</td>
-<td>匹配紧接在 prev 后的next 元素</td>
-<td>集合元素</td>
-<td>$(“.error+span”)</td>
-</tr>
-<tr>
-<td>$(“prev~siblings”)</td>
-<td>匹配 prev 后的所有siblings 元素</td>
-<td>集合元素</td>
-<td>$(“span~a”)</td>
-</tr>
-</tbody>
-</table>
-<blockquote>
-<p>可以用</p>
-</blockquote>
-<h3 id="过滤选择器"><a href="#过滤选择器" class="headerlink" title="过滤选择器"></a>过滤选择器</h3><h3 id="表单选择器"><a href="#表单选择器" class="headerlink" title="表单选择器"></a>表单选择器</h3><table>
-<thead>
-<tr>
-<th>选择器</th>
-<th>描述</th>
-<th>返回</th>
-<th>示例</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>:input</td>
-<td>匹配所有 input, textarea,select, button元素</td>
-<td>集合元素</td>
-<td>$(“input”)</td>
-</tr>
-<tr>
-<td>:text</td>
-<td>匹配所有文本框</td>
-<td>集合元素</td>
-<td>$(“:text”)</td>
-</tr>
-<tr>
-<td>:password</td>
-<td>匹配所有密码框</td>
-<td>集合元素</td>
-<td>$(“:password”)</td>
-</tr>
-<tr>
-<td>:radio</td>
-<td>匹配所有单选框</td>
-<td>集合元素</td>
-<td>$(“:radio”)</td>
-</tr>
-<tr>
-<td>:checkbox</td>
-<td>匹配所有所有多选框</td>
-<td>集合元素</td>
-<td>$(“:checkbox”)</td>
-</tr>
-<tr>
-<td>:submit</td>
-<td>匹配所有提交按钮</td>
-<td>集合元素</td>
-<td>$(“:submit”)</td>
-</tr>
-<tr>
-<td>:image</td>
-<td>匹配所有图像按钮</td>
-<td>集合元素</td>
-<td>$(“:image”)</td>
-</tr>
-<tr>
-<td>:reset</td>
-<td>匹配所有重置按钮</td>
-<td>集合元素</td>
-<td>$(“:reset”)</td>
-</tr>
-<tr>
-<td>:button</td>
-<td>匹配所有按钮</td>
-<td>集合元素</td>
-<td>$(“:button”)</td>
-</tr>
-<tr>
-<td>:file</td>
-<td>匹配所有上传域</td>
-<td>集合元素</td>
-<td>$(“:file”)</td>
-</tr>
-</tbody>
-</table>
-<h2 id="编码规范"><a href="#编码规范" class="headerlink" title="编码规范"></a>编码规范</h2><h4 id="链式操作"><a href="#链式操作" class="headerlink" title="链式操作"></a>链式操作</h4><ul>
-<li><p>对于同一个对象不超过3个操作的，可以直接写成一行：</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$(&quot;li&quot;).show().unbind(&quot;click&quot;);</div></pre></td></tr></table></figure>
-</li>
-<li><p>对于同一个对象的较多操作，建议每行写一个操作：</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">$(this).removeClass(&quot;mouseout&quot;)</div><div class="line">       .addClass(&quot;mouseover&quot;)</div><div class="line">       .stop()</div><div class="line">       .fadeTo(&quot;fast&quot;, 0.6)</div><div class="line">       .fadeTo(&quot;fast&quot;, 1)</div><div class="line">       .unbind(&quot;click&quot;)</div><div class="line">       .click(function() &#123;</div><div class="line">            //do something ...</div><div class="line">        &#125;);</div></pre></td></tr></table></figure>
-</li>
-</ul>
-<blockquote>
-<p>如果嫌代码行数过多，可以以功能块来换行。</p>
-<ul>
-<li>对于多个对象的少量操作，可以每个对象写一行，如果涉及子元素，可以考虑适当缩进：<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">$(this).addClass(&quot;highlight&quot;)</div><div class="line">       .children(&quot;li&quot;).show().end()</div><div class="line">.siblings().removeClass(&quot;highlight&quot;)</div><div class="line">       .children(&quot;li&quot;).hide();</div></pre></td></tr></table></figure>
-</li>
-</ul>
-</blockquote>
-<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><h2 id="书"><a href="#书" class="headerlink" title="书"></a>书</h2><h2 id="文章"><a href="#文章" class="headerlink" title="文章"></a>文章</h2>]]></content>
-      
-        
-        <tags>
-            
-            <tag> JavaScript </tag>
-            
-            <tag> jQuery </tag>
-            
-        </tags>
-        
+      <url>%2F2017%2F03%2F29%2F%E4%BC%98%E9%9B%85%E4%BD%BF%E7%94%A8jQuery%2F</url>
+      <content type="text"><![CDATA[结合《锋利的jQuery》学习，记录属于自己的知识。jQuery是一个轻量级的库，拥有强大的选择器，出色的DOM操作，可靠的事件处理、完善的兼容性和链式操作等功能。 jQuery代码编写入门 获取jQuery通过官网获取 编写简单的jQuery代码 12345678910111213141516171819202122&lt;!DOCTYPE html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt; &lt;meta charset=&quot;UTF-8&quot;&gt; &lt;title&gt;jQuery01&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;script src=&quot;//cdn.bootcss.com/jquery/1.7.1/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script&gt; $(document).ready(function() &#123; alert(&quot;Hello World&quot;); &#125;); $(function() &#123; alert(&apos;tess&apos;); &#125;) $(document).ready(function () &#123; &#125;);&lt;/script&gt;&lt;/html&gt; window.onload和$(document).ready()的对比 jQuery对象和DOM对象 1、DOM(Document Object Model, 文档对象模型)，DOM对象可以使用JavaScript中的方法： 12var domObject = document.getElementById(&quot;id&quot;);var objHtml = domObj.innerHTML; 2、jQuery 对象就是通过jQuery包装DOM对象后产生的对象，jQuery 对象是jQuery 独有的。 3、jQuery对象和DOM对象的相互转换 123var $variable = jQuery对象；var variable = DOM对象； 1234567//jQuery对象-&gt;DOM对象var $cr = $(&quot;#cr&quot;);var cr = $cr[0];var cr = $cr.get(0);//jQuery对象&lt;-DOM对象var cr = document.getElementById(&quot;cr&quot;);var $cr = $(cr); 解决jQuery 和其他库的冲突 1、jQuery在其他库加载之后导入，可以在任何时候调用jQuery.noConflict()函数将变量$的控制权移交给其他JavaScript库。 2、自定义一个快捷方式 1var $j = jQuery.noConflict(); 3、将变量$的控制权让渡给prototype.js 123456jQuery.noConflict();jQuery(function($)&#123; //使用jQuery $(&quot;p&quot;).click(function()&#123; //继续使用 $ 方法 alert( $(this).text() ); &#125;);&#125;); 4、执行匿名函数且传递实参jQuery 12345678jQuery.noConflict(); //将变量$的控制权让渡给prototype.js(function($)&#123; //定义匿名函数并设置形参为$ $(function()&#123; //匿名函数内部的$均为jQuery $(&quot;p&quot;).click(function()&#123; //继续使用 $ 方法 alert($(this).text()); &#125;); &#125;);&#125;)(jQuery); //执行匿名函数且传递实参jQuery jQuery选择器 在jQuery中，对事件处理、遍历DOM和Ajax 操作都依赖于选择器。jQuery 选择器分为基本选择器，层次选择器、过滤选择器、表单选择器； 基本选择器 选择器 描述 返回 示例 #id 匹配给定的id 单个元素 $(“header”) .class 匹配给定的类名 集合元素 $(“.test”) E 匹配给定的标签名 集合元素 $(“div”) * 匹配所有元素 集合元素 $(“*’) E, .class, E… 匹配给定的集合 集合元素 $(“span, .tips”) 层次选择器 选择器 描述 返回 示例 $(“ancestor descendant”) 匹配 ancestor 里的所有descendant(后代)元素 集合元素 $(“body div”) $(“parent&gt;child”) 匹配 parent 下的所有child(子) 元素 集合元素 $(“div&gt;span”) $(“prev+next”) 匹配紧接在 prev 后的next 元素 集合元素 $(“.error+span”) $(“prev~siblings”) 匹配 prev 后的所有siblings 元素 集合元素 $(“span~a”) 可以用 过滤选择器表单选择器 选择器 描述 返回 示例 :input 匹配所有 input, textarea,select, button元素 集合元素 $(“input”) :text 匹配所有文本框 集合元素 $(“:text”) :password 匹配所有密码框 集合元素 $(“:password”) :radio 匹配所有单选框 集合元素 $(“:radio”) :checkbox 匹配所有所有多选框 集合元素 $(“:checkbox”) :submit 匹配所有提交按钮 集合元素 $(“:submit”) :image 匹配所有图像按钮 集合元素 $(“:image”) :reset 匹配所有重置按钮 集合元素 $(“:reset”) :button 匹配所有按钮 集合元素 $(“:button”) :file 匹配所有上传域 集合元素 $(“:file”) 编码规范链式操作 对于同一个对象不超过3个操作的，可以直接写成一行： 1$(&quot;li&quot;).show().unbind(&quot;click&quot;); 对于同一个对象的较多操作，建议每行写一个操作： 123456789$(this).removeClass(&quot;mouseout&quot;) .addClass(&quot;mouseover&quot;) .stop() .fadeTo(&quot;fast&quot;, 0.6) .fadeTo(&quot;fast&quot;, 1) .unbind(&quot;click&quot;) .click(function() &#123; //do something ... &#125;); 如果嫌代码行数过多，可以以功能块来换行。 对于多个对象的少量操作，可以每个对象写一行，如果涉及子元素，可以考虑适当缩进：1234$(this).addClass(&quot;highlight&quot;) .children(&quot;li&quot;).show().end().siblings().removeClass(&quot;highlight&quot;) .children(&quot;li&quot;).hide(); 参考资料书文章]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[技术栈]]></title>
-      <url>http://chenlianjiang.github.io/2017/03/28/%E6%8A%80%E6%9C%AF%E6%A0%88/</url>
-      <content type="html"></content>
-      
-        
+      <url>%2F2017%2F03%2F28%2F%E6%8A%80%E6%9C%AF%E6%A0%88%2F</url>
+      <content type="text"></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[求职之路与职业规划]]></title>
-      <url>http://chenlianjiang.github.io/2017/03/27/%E6%B1%82%E8%81%8C%E4%B9%8B%E8%B7%AF%E4%B8%8E%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/</url>
-      <content type="html"><![CDATA[<p><a href="https://segmentfault.com/a/1190000008888700?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io" target="_blank" rel="external">2017年PHP程序员未来路在何方-韩天峰</a>   </p>
-]]></content>
-      
-        
+      <url>%2F2017%2F03%2F27%2F%E6%B1%82%E8%81%8C%E4%B9%8B%E8%B7%AF%E4%B8%8E%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%2F</url>
+      <content type="text"><![CDATA[2017年PHP程序员未来路在何方-韩天峰]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[常用技术网站]]></title>
-      <url>http://chenlianjiang.github.io/2017/03/23/%E5%B8%B8%E7%94%A8%E6%8A%80%E6%9C%AF%E7%BD%91%E7%AB%99/</url>
-      <content type="html"><![CDATA[<p><a href="http://www.csdn.net/" target="_blank" rel="external">CSDN.NET - 全球最大中文 IT 社区，为 IT 专业技术人员提供最全面的信息传播和服务平台</a><br><a href="http://www.jobbole.com/" target="_blank" rel="external">伯乐在线</a></p>
-]]></content>
-      
-        
+      <url>%2F2017%2F03%2F23%2F%E5%B8%B8%E7%94%A8%E6%8A%80%E6%9C%AF%E7%BD%91%E7%AB%99%2F</url>
+      <content type="text"><![CDATA[CSDN.NET - 全球最大中文 IT 社区，为 IT 专业技术人员提供最全面的信息传播和服务平台伯乐在线]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[Hexo搭建个人博客]]></title>
-      <url>http://chenlianjiang.github.io/2017/03/17/Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-      <content type="html"><![CDATA[<h2 id="添加Local-Search功能"><a href="#添加Local-Search功能" class="headerlink" title="添加Local Search功能"></a>添加Local Search功能</h2><p>安装 hexo-generator-searchdb,在你的站点文件夹中，用shell等运行下面这行代码：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm install hexo-generator-searchdb --save</div></pre></td></tr></table></figure></p>
-<p>编辑站点配置文件添加以下字段<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">search:</div><div class="line">  path: search.xml</div><div class="line">  field: post</div><div class="line">  format: html</div><div class="line">  limit: 10000</div></pre></td></tr></table></figure></p>
-<p>编辑主题配置文件启用本地搜索<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"># Local search</div><div class="line">local_search:</div><div class="line">  enable: true</div></pre></td></tr></table></figure></p>
-<h2 id="添加百度统计"><a href="#添加百度统计" class="headerlink" title="添加百度统计"></a>添加百度统计</h2><ul>
-<li>注册并登陆<a href="http://tongji.baidu.com/web/welcome/login" target="_blank" rel="external">百度统计</a></li>
-<li>在网站中心–&gt;代码获取中点击复制代码 </li>
-<li>打开F:\Hexo\themes\pacman\layout\after_footer.ejs文件,把刚才复制的代码复制到最下面即可;</li>
-<li>然后在网站中心–&gt;代码安装检查中检测代码是否添加成功<blockquote>
-<p>注意:因为主题用的不同,可能代码添加位置也不一样,但基本都是在/themes/yourtheme/layout/after_footer.ejs中添加即可</p>
-</blockquote>
-</li>
-</ul>
-]]></content>
-      
-        
-        <tags>
-            
-            <tag> Hexo </tag>
-            
-        </tags>
-        
+      <url>%2F2017%2F03%2F17%2FHexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%2F</url>
+      <content type="text"><![CDATA[添加Local Search功能安装 hexo-generator-searchdb,在你的站点文件夹中，用shell等运行下面这行代码：1$ npm install hexo-generator-searchdb --save 编辑站点配置文件添加以下字段12345search: path: search.xml field: post format: html limit: 10000 编辑主题配置文件启用本地搜索123# Local searchlocal_search: enable: true 添加百度统计 注册并登陆百度统计 在网站中心–&gt;代码获取中点击复制代码 打开F:\Hexo\themes\pacman\layout\after_footer.ejs文件,把刚才复制的代码复制到最下面即可; 然后在网站中心–&gt;代码安装检查中检测代码是否添加成功 注意:因为主题用的不同,可能代码添加位置也不一样,但基本都是在/themes/yourtheme/layout/after_footer.ejs中添加即可]]></content>
     </entry>
+
     
     <entry>
       <title><![CDATA[Hello World]]></title>
-      <url>http://chenlianjiang.github.io/2017/03/17/hello-world/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-      
-        
+      <url>%2F2017%2F03%2F17%2Fhello-world%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
     </entry>
+
     
   
   
